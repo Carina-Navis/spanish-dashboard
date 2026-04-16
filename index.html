@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spanish Learning Dashboard — Andrew</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #f4f1eb; color: #2d2d2d; min-height: 100vh; }
+
+  header {
+    background: linear-gradient(135deg, #c0392b, #8e1a10);
+    color: white;
+    padding: 28px 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  header h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: 0.5px; }
+  header p { font-size: 0.9rem; opacity: 0.85; margin-top: 4px; }
+  .level-badge {
+    background: rgba(255,255,255,0.2);
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 50px;
+    padding: 10px 24px;
+    text-align: center;
+  }
+  .level-badge .level-text { font-size: 1.8rem; font-weight: 800; }
+  .level-badge .level-label { font-size: 0.7rem; opacity: 0.8; letter-spacing: 1px; text-transform: uppercase; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 28px 36px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .card {
+    background: white;
+    border-radius: 14px;
+    padding: 22px 24px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  }
+  .card.wide { grid-column: span 2; }
+  .card.full { grid-column: span 3; }
+  .card h2 {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: #999;
+    margin-bottom: 16px;
+    font-weight: 600;
+  }
+
+  /* Skill bars */
+  .skill-row { margin-bottom: 14px; }
+  .skill-row:last-child { margin-bottom: 0; }
+  .skill-header { display: flex; justify-content: space-between; margin-bottom: 6px; }
+  .skill-name { font-size: 0.9rem; font-weight: 500; }
+  .skill-tag {
+    font-size: 0.72rem;
+    padding: 2px 10px;
+    border-radius: 20px;
+    font-weight: 600;
+  }
+  .tag-b2 { background: #d4edda; color: #1a7a34; }
+  .tag-b1 { background: #fff3cd; color: #8a6000; }
+  .tag-a2 { background: #fde8e8; color: #c0392b; }
+  .bar-track { background: #f0f0f0; border-radius: 20px; height: 8px; }
+  .bar-fill { height: 8px; border-radius: 20px; transition: width 1s ease; }
+  .fill-b2 { background: linear-gradient(90deg, #27ae60, #2ecc71); }
+  .fill-b1plus { background: linear-gradient(90deg, #e67e22, #f39c12); }
+  .fill-b1 { background: linear-gradient(90deg, #e67e22, #f1c40f); }
+  .fill-a2 { background: linear-gradient(90deg, #c0392b, #e74c3c); }
+
+  /* Roadmap */
+  .roadmap { display: flex; flex-direction: column; gap: 12px; }
+  .road-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+  }
+  .road-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .icon-done { background: #d4edda; color: #1a7a34; }
+  .icon-next { background: #c0392b; color: white; }
+  .icon-pending { background: #f0f0f0; color: #aaa; }
+  .road-content {}
+  .road-title { font-size: 0.92rem; font-weight: 600; }
+  .road-sub { font-size: 0.78rem; color: #888; margin-top: 2px; }
+  .connector-line {
+    width: 2px; height: 12px; background: #e0e0e0;
+    margin-left: 15px;
+  }
+
+  /* Vocab */
+  .vocab-table { width: 100%; border-collapse: collapse; }
+  .vocab-table th {
+    text-align: left;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #999;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .vocab-table td {
+    padding: 9px 0;
+    font-size: 0.88rem;
+    border-bottom: 1px solid #f7f7f7;
+    vertical-align: top;
+  }
+  .vocab-table td:first-child { font-weight: 600; color: #c0392b; width: 140px; }
+  .vocab-table td:nth-child(2) { color: #555; width: 180px; }
+  .vocab-table td:nth-child(3) { color: #888; font-size: 0.8rem; }
+
+  /* Review flags */
+  .flag-list { display: flex; flex-direction: column; gap: 10px; }
+  .flag-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 14px;
+    background: #fdf6f6;
+    border-left: 3px solid #c0392b;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.87rem;
+  }
+  .flag-item span { color: #c0392b; font-size: 1rem; flex-shrink: 0; }
+
+  /* Stats row */
+  .stats-row { display: flex; gap: 16px; }
+  .stat-box {
+    flex: 1;
+    background: #fdf8f8;
+    border-radius: 10px;
+    padding: 16px;
+    text-align: center;
+  }
+  .stat-num { font-size: 2rem; font-weight: 800; color: #c0392b; line-height: 1; }
+  .stat-label { font-size: 0.72rem; color: #999; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.8px; }
+
+  /* Next lesson highlight */
+  .next-lesson {
+    background: linear-gradient(135deg, #fdf0ef, #fde8e8);
+    border: 1.5px solid #f5c6c3;
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin-bottom: 16px;
+  }
+  .next-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; color: #c0392b; font-weight: 700; margin-bottom: 6px; }
+  .next-title { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; }
+  .next-desc { font-size: 0.82rem; color: #666; }
+
+  .date-line { font-size: 0.75rem; color: #bbb; margin-top: 18px; text-align: right; }
+
+  @media (max-width: 860px) {
+    .grid { grid-template-columns: 1fr; padding: 16px; }
+    .card.wide, .card.full { grid-column: span 1; }
+    header { flex-direction: column; gap: 16px; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>🇪🇸 Spanish Learning Dashboard</h1>
+    <p>Andrew · Tracked by your AI tutor · Updated after each lesson</p>
+  </div>
+  <div class="level-badge">
+    <div class="level-text">B1+</div>
+    <div class="level-label">Current Level</div>
+  </div>
+</header>
+
+<div class="grid">
+
+  <!-- Stats -->
+  <div class="card full">
+    <h2>Session Overview</h2>
+    <div class="stats-row">
+      <div class="stat-box">
+        <div class="stat-num">1</div>
+        <div class="stat-label">Lessons Complete</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-num">9</div>
+        <div class="stat-label">Vocab Words Tracked</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-num">5</div>
+        <div class="stat-label">Lessons in Roadmap</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-num">3</div>
+        <div class="stat-label">Exercises / Session</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Skill Levels -->
+  <div class="card">
+    <h2>Skill Breakdown</h2>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Vocabulary</span>
+        <span class="skill-tag tag-b2">B1–B2</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-b2" style="width:78%"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Reading Comprehension</span>
+        <span class="skill-tag tag-b2">B1–B2</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-b2" style="width:75%"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Preterite / Imperfect</span>
+        <span class="skill-tag tag-b1">B1</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-b1" style="width:60%"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Present Subjunctive</span>
+        <span class="skill-tag tag-b1">B1 ↑</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-b1plus" style="width:55%"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Object Pronouns</span>
+        <span class="skill-tag tag-b1">B1</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-b1" style="width:50%"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Complex Conditionals</span>
+        <span class="skill-tag tag-a2">A2–B1</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-a2" style="width:30%"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-header">
+        <span class="skill-name">Gender Agreement</span>
+        <span class="skill-tag tag-b1">B1</span>
+      </div>
+      <div class="bar-track"><div class="bar-fill fill-b1" style="width:52%"></div></div>
+    </div>
+  </div>
+
+  <!-- Roadmap -->
+  <div class="card">
+    <h2>Lesson Roadmap</h2>
+
+    <div class="next-lesson">
+      <div class="next-label">⚡ Up Next — Lesson 2</div>
+      <div class="next-title">Past Subjunctive + Conditional</div>
+      <div class="next-desc">"If I had known you were coming, I would have made dinner" — the B2 structure you missed on the diagnostic.</div>
+    </div>
+
+    <div class="roadmap">
+      <div class="road-item">
+        <div class="road-icon icon-done">✓</div>
+        <div class="road-content">
+          <div class="road-title">Lesson 1 — Present Subjunctive</div>
+          <div class="road-sub">Completed · Apr 16, 2026</div>
+        </div>
+      </div>
+      <div class="connector-line"></div>
+      <div class="road-item">
+        <div class="road-icon icon-next">2</div>
+        <div class="road-content">
+          <div class="road-title">Lesson 2 — Past Subjunctive + Conditional</div>
+          <div class="road-sub">Next session · Pluperfect subjunctive, conditional perfect</div>
+        </div>
+      </div>
+      <div class="connector-line"></div>
+      <div class="road-item">
+        <div class="road-icon icon-pending">3</div>
+        <div class="road-content">
+          <div class="road-title">Lesson 3 — Object Pronoun Combinations</div>
+          <div class="road-sub">le→se rule, stacking direct + indirect pronouns</div>
+        </div>
+      </div>
+      <div class="connector-line"></div>
+      <div class="road-item">
+        <div class="road-icon icon-pending">4</div>
+        <div class="road-content">
+          <div class="road-title">Lesson 4 — Ser vs. Estar (Deep Rules)</div>
+          <div class="road-sub">Beyond "permanent vs. temporary"</div>
+        </div>
+      </div>
+      <div class="connector-line"></div>
+      <div class="road-item">
+        <div class="road-icon icon-pending">5</div>
+        <div class="road-content">
+          <div class="road-title">Lesson 5 — Advanced Vocabulary + Connectors</div>
+          <div class="road-sub">a pesar de, sin embargo, a menos que, para que</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Areas to Review -->
+  <div class="card">
+    <h2>Areas to Review</h2>
+    <div class="flag-list">
+      <div class="flag-item"><span>⚠</span> Stem-changing verbs in 1st person (recomendar → recomiendo, sugerir → sugiero)</div>
+      <div class="flag-item"><span>⚠</span> g→gu / g→j spelling changes before -e endings (llegar → lleguen, proteger → proteja)</div>
+      <div class="flag-item"><span>⚠</span> mi vs. me — possessive adjective vs. object pronoun</div>
+      <div class="flag-item"><span>⚠</span> a + el = al contraction (al supermercado, not a el)</div>
+      <div class="flag-item"><span>⚠</span> Accent marks — inconsistent (más, también, él)</div>
+      <div class="flag-item"><span>⚠</span> Gender agreement — el/la errors (el clima, la población)</div>
+    </div>
+  </div>
+
+  <!-- Vocabulary -->
+  <div class="card wide">
+    <h2>Vocabulary Review List</h2>
+    <table class="vocab-table">
+      <thead>
+        <tr>
+          <th>Spanish</th>
+          <th>English</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>sugerir</td><td>to suggest</td><td>Stem-change e→ie · triggers subjunctive</td></tr>
+        <tr><td>recomendar</td><td>to recommend</td><td>Stem-change e→ie · recomiendo</td></tr>
+        <tr><td>proteger</td><td>to protect</td><td>Irregular yo: protejo → subjunctive: proteja</td></tr>
+        <tr><td>lograr</td><td>to manage to / achieve</td><td>logramos terminar = we managed to finish</td></tr>
+        <tr><td>el contratiempo</td><td>setback / obstacle</td><td>From diagnostic reading passage</td></tr>
+        <tr><td>el ambiente</td><td>environment / atmosphere</td><td>Can mean surroundings or vibe</td></tr>
+        <tr><td>a pesar de (que)</td><td>despite / in spite of</td><td>Followed by noun or subjunctive clause</td></tr>
+        <tr><td>a menos que</td><td>unless</td><td>Always triggers subjunctive</td></tr>
+        <tr><td>sin embargo</td><td>however / nevertheless</td><td>Formal written connector</td></tr>
+      </tbody>
+    </table>
+    <div class="date-line">Last updated: April 16, 2026 · Lesson 1 complete</div>
+  </div>
+
+</div>
+
+</body>
+</html>
