@@ -2,7 +2,7 @@
 
 **Level at start:** B1 / B1+ (assessed 2026-04-16)
 **Target level:** B2
-**Session limit:** 3 exercises per day (unless Andrew requests more)
+**Session limit:** 3 exercises per day (unless Andrew requests more). No more than 10 questions per exercise — I determine the count and vary it. Andrew decides how many exercises per session.
 
 ---
 
@@ -53,12 +53,40 @@
 
 ---
 
+### Lesson 2 — Past Subjunctive + Conditional (2026-04-17)
+
+**Objectives:** Form and use *si + pluperfect subjunctive + conditional perfect* ("if I had known..." structures)
+
+**Exercise 1 (Fill in the blank — 3 questions):** 3/3 ✅
+- Perfect. Correctly used *hubiéramos* (nosotros form with accent).
+
+**Exercise 2 (Sentence transformation — 6 questions):** 3.5/6
+- Consistent error: *Sí* (yes) vs *Si* (if) — accent mark on all 6 sentences
+- Pronoun placement: *habría me* → *me habría*; *hubiera me* → *me hubiera*
+- Irregular participles: *trajo* → *traído*; *lyendo* → *leído*; *rompido* → *roto*
+- *Ser* vs *Estar*: *habría sido cansados* → *habríamos estado cansados*
+- Win: *dicho*, *ido* used correctly
+
+**Exercise 3 (English → Spanish translation — 5 questions):** 2/5
+- Consistent error: Missing *no* in negative result clauses (3/5 sentences)
+- Irregular participles: *vido* → *visto*; *pagados* → *pagado* (no agreement after haber)
+- *los* → *las* (gender agreement with *llaves*)
+- *huberian* → *hubieran* (spelling)
+- Win: *puesto* ✅, *dicho* ✅, *Si* accent clean all lesson ✅
+
+**Needs review:**
+- Missing *no* in negative conditional results — most urgent
+- Irregular past participles: *visto, traído, leído, roto, dicho, hecho, puesto, vuelto*
+- Pronoun gender agreement (*los/las* with noun)
+
+---
+
 ## Lesson Roadmap
 
 | # | Topic | Status |
 |---|---|---|
 | 1 | Present Subjunctive | ✅ Complete |
-| 2 | Past Subjunctive + Conditional ("if I had known...") | Pending |
+| 2 | Past Subjunctive + Conditional ("if I had known...") | ✅ Complete |
 | 3 | Object Pronoun Combinations (le→se rule) | Pending |
 | 4 | Ser vs. Estar — deep rules | Pending |
 | 5 | Advanced Vocabulary + Connectors | Pending |

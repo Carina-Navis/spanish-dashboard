@@ -12,6 +12,24 @@ Review these periodically to build retention. Words are added as they come up in
 | recomendar | to recommend | Stem-changing: e→ie (*recomiendo*). Triggers subjunctive. |
 | proteger | to protect | Irregular yo: *protejo* → subjunctive: *proteja, protejas...* |
 | lograr | to manage to / to achieve | Common in writing: *logramos terminar* = we managed to finish |
+| responder | to respond / to reply | Past participle: *respondido*. Not *respuesta* (that's a noun) |
+| perder | to lose | Stem-change e→ie. Past participle: *perdido* |
+| pagar | to pay | Takes indirect object: *pagar a alguien* → *les pagó* (not *los*) |
+
+## Irregular Past Participles (Critical List)
+
+| Infinitive | Participle | English |
+|---|---|---|
+| ver | visto | seen |
+| decir | dicho | said |
+| poner | puesto | put |
+| hacer | hecho | done |
+| romper | roto | broken |
+| traer | traído | brought |
+| leer | leído | read |
+| volver | vuelto | returned |
+| escribir | escrito | written |
+| abrir | abierto | opened |
 
 ## Nouns
 
