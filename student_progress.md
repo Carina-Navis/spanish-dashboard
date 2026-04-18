@@ -81,12 +81,38 @@
 
 ---
 
+### Lesson 3 — Object Pronoun Combinations (2026-04-18)
+
+**Objectives:** Apply le→se swap, IO+DO order, pronoun placement with infinitives, tense selection
+
+**Exercise 1 (Identify & Replace — 4 questions):** 1.5/4
+- le→se rule missed when le was already in the sentence
+- *le* used as DO pronoun: *la situación* → *la* not *le*
+- Win: *nos los* ✅, pronoun placement improving
+
+**Exercise 2 (Translation — 6 questions):** 4/6
+- le→se slip on #2 (*le lo* → *se lo*)
+- DO gender: *el problema* → *lo* not *la*
+- Win: *me las* ✅, *se las* ✅, *dártelo* ✅ (placement with infinitive), tense selections all correct
+
+**Exercise 3 (Pronouns + Tense — 5 questions):** 1/5 pronouns, 5/5 tense
+- **Tense: perfect** — read all 5 context clues correctly (todos los días, ayer, de niño, martes pasado, en aquella época)
+- le→se rule missed on 3/5 sentences when *le/les* was pre-placed in the sentence
+- *le* as DO pronoun (*un juguete* → *lo* not *le*)
+
+**Needs review:**
+- le→se rule when IO is already written as *le/les* — must still swap before lo/la/los/las
+- *le* is IO only — DO pronouns are exclusively lo/la/los/las
+- Accent on pronouns attached to infinitives (*dártelo* not *dartelo*)
+
+---
+
 ## Lesson Roadmap
 
 | # | Topic | Status |
 |---|---|---|
 | 1 | Present Subjunctive | ✅ Complete |
 | 2 | Past Subjunctive + Conditional ("if I had known...") | ✅ Complete |
-| 3 | Object Pronoun Combinations (le→se rule) | Pending |
+| 3 | Object Pronoun Combinations (le→se rule) | ✅ Complete |
 | 4 | Ser vs. Estar — deep rules | Pending |
 | 5 | Advanced Vocabulary + Connectors | Pending |
