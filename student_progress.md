@@ -107,12 +107,70 @@
 
 ---
 
-## Lesson Roadmap
+### Lesson 4 — Ser vs. Estar: Deep Rules (2026-04-19)
 
+**Objectives:** Apply the real ser/estar rules — events trap, meaning-changers, personality vs. current state, always-estar words
+
+**Exercise 1 (Ser or Estar? — 7 questions):** 6/7
+- Missed: events trap — *La reunión está* → *La reunión es* (event location = ser)
+- Win: meaning-changers (*está deliciosa, es aburrido, está muerto, está listo, es seguro*) all correct ✅
+
+**Exercise 2 (Translation — 5 questions):** 2/5
+- *nervoso* → *nerviosa* — gender agreement on adjective
+- *sobre* → *por* — "nervous about" = *nervioso por*
+- *estaba listo* → *era listo* — clever (personality) = ser, not estar
+- *es frío* → *está frío* — current temperature of specific thing = estar
+- Win: events trap on #2 ✅, imperfect + *que* instinct mostly right on #5
+
+**Exercise 3 (Correct or Wrong? — 6 questions):** 5/6
+- Missed: *es muerta* → *está muerta* — *muerto* always takes estar (result of process, no exceptions)
+- Win: events trap 3/3 ✅, *está nervioso últimamente* correctly caught ✅, *está seguro* ✅
+
+**Needs review:**
+- *estar muerto* — no exceptions, death is always a state
+- *ser* for personality traits in past: *era listo/bueno/malo* not *estaba*
+- Gender agreement on adjectives — recurring across all lessons
+- *por* for emotional cause (*nervioso por*, *preocupado por*)
+
+---
+
+## Lesson Roadmap — B1+ → C1 (Target: August 2026)
+
+### Block 1 — Core Grammar
 | # | Topic | Status |
 |---|---|---|
 | 1 | Present Subjunctive | ✅ Complete |
-| 2 | Past Subjunctive + Conditional ("if I had known...") | ✅ Complete |
-| 3 | Object Pronoun Combinations (le→se rule) | ✅ Complete |
-| 4 | Ser vs. Estar — deep rules | Pending |
-| 5 | Advanced Vocabulary + Connectors | Pending |
+| 2 | Past Subjunctive + Conditional | ✅ Complete |
+| 3 | Object Pronoun Combinations | ✅ Complete |
+| 4 | Ser vs. Estar — Deep Rules | ✅ Complete |
+| 5 | Passive Voice (ser + participle vs. se passive) | Pending |
+
+### Block 2 — Advanced Structure
+| # | Topic | Status |
+|---|---|---|
+| 6 | Relative Clauses + Subjunctive | Pending |
+| 7 | Reported Speech — tense backshifting | Pending |
+| 8 | Gerund vs. Infinitive | Pending |
+| 9 | All Conditional Types (review + Type 1/2/3) | Pending |
+
+### Block 3 — C1 Grammar
+| # | Topic | Status |
+|---|---|---|
+| 10 | Subjunctive in adverbial clauses | Pending |
+| 11 | Imperative mood with pronouns | Pending |
+| 12 | Nuanced articles + nominalization | Pending |
+| 13 | Abstract language + formal register | Pending |
+
+### Block 4 — Vocabulary & Fluency
+| # | Topic | Status |
+|---|---|---|
+| 14 | Advanced connectors + discourse markers | Pending |
+| 15 | Idiomatic expressions | Pending |
+| 16 | Written vs. spoken register | Pending |
+
+### Block 5 — Review & Assessment
+| # | Topic | Status |
+|---|---|---|
+| R1 | Review: Subjunctive + Conditionals | Pending |
+| R2 | Review: Pronouns + Ser/Estar | Pending |
+| R3 | Full diagnostic re-test | Pending |
