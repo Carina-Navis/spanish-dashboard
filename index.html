@@ -164,6 +164,38 @@
 
   .date-line { font-size: 0.75rem; color: #bbb; margin-top: 18px; text-align: right; }
 
+  /* Activity tracker */
+  .activity-grid { display: flex; gap: 10px; align-items: flex-end; margin-bottom: 20px; }
+  .day-col { display: flex; flex-direction: column; align-items: center; gap: 6px; flex: 1; }
+  .day-dot {
+    width: 36px; height: 36px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.75rem; font-weight: 700;
+  }
+  .day-dot.active { background: #c0392b; color: white; }
+  .day-dot.today { background: #8e1a10; color: white; box-shadow: 0 0 0 3px rgba(192,57,43,0.25); }
+  .day-dot.inactive { background: #f0f0f0; color: #ccc; }
+  .day-label { font-size: 0.65rem; color: #bbb; text-transform: uppercase; letter-spacing: 0.5px; }
+  .activity-meta { display: flex; gap: 20px; margin-bottom: 18px; }
+  .meta-item { display: flex; flex-direction: column; }
+  .meta-val { font-size: 1.4rem; font-weight: 800; color: #c0392b; line-height: 1; }
+  .meta-label { font-size: 0.68rem; color: #999; text-transform: uppercase; letter-spacing: 0.8px; margin-top: 3px; }
+  .goal-bar-wrap { margin-top: 4px; }
+  .goal-bar-label { display: flex; justify-content: space-between; font-size: 0.75rem; color: #888; margin-bottom: 6px; }
+  .goal-bar-track { background: #f0f0f0; border-radius: 20px; height: 10px; }
+  .goal-bar-fill { height: 10px; border-radius: 20px; background: linear-gradient(90deg, #c0392b, #e74c3c); transition: width 1s ease; }
+
+  /* Roadmap progress */
+  .progress-ring-wrap { display: flex; align-items: center; gap: 20px; }
+  .progress-ring-wrap svg { flex-shrink: 0; }
+  .progress-ring-text { }
+  .progress-pct { font-size: 2rem; font-weight: 800; color: #c0392b; line-height: 1; }
+  .progress-sub { font-size: 0.75rem; color: #999; margin-top: 4px; }
+  .progress-detail { margin-top: 14px; display: flex; flex-direction: column; gap: 6px; }
+  .progress-block { display: flex; justify-content: space-between; font-size: 0.8rem; }
+  .progress-block span:first-child { color: #555; }
+  .progress-block span:last-child { font-weight: 600; color: #c0392b; }
+
   @media (max-width: 860px) {
     .grid { grid-template-columns: 1fr; padding: 16px; }
     .card.wide, .card.full { grid-column: span 1; }
@@ -206,6 +238,90 @@
         <div class="stat-num">3</div>
         <div class="stat-label">Exercises / Session</div>
       </div>
+    </div>
+  </div>
+
+  <!-- Weekly Activity -->
+  <div class="card wide">
+    <h2>Weekly Activity — Week of Apr 13</h2>
+    <div class="activity-grid">
+      <div class="day-col">
+        <div class="day-dot inactive">—</div>
+        <div class="day-label">Mon</div>
+      </div>
+      <div class="day-col">
+        <div class="day-dot inactive">—</div>
+        <div class="day-label">Tue</div>
+      </div>
+      <div class="day-col">
+        <div class="day-dot inactive">—</div>
+        <div class="day-label">Wed</div>
+      </div>
+      <div class="day-col">
+        <div class="day-dot active">L1</div>
+        <div class="day-label">Thu</div>
+      </div>
+      <div class="day-col">
+        <div class="day-dot active">L2</div>
+        <div class="day-label">Fri</div>
+      </div>
+      <div class="day-col">
+        <div class="day-dot active">L3</div>
+        <div class="day-label">Sat</div>
+      </div>
+      <div class="day-col">
+        <div class="day-dot today">L4</div>
+        <div class="day-label">Sun</div>
+      </div>
+    </div>
+    <div class="activity-meta">
+      <div class="meta-item">
+        <div class="meta-val">4</div>
+        <div class="meta-label">Sessions This Week</div>
+      </div>
+      <div class="meta-item">
+        <div class="meta-val">4</div>
+        <div class="meta-label">Day Streak 🔥</div>
+      </div>
+      <div class="meta-item">
+        <div class="meta-val">1.0</div>
+        <div class="meta-label">Avg Sessions / Day</div>
+      </div>
+    </div>
+    <div class="goal-bar-wrap">
+      <div class="goal-bar-label">
+        <span>Weekly Goal Progress</span>
+        <span>4 / 5 sessions</span>
+      </div>
+      <div class="goal-bar-track">
+        <div class="goal-bar-fill" style="width: 80%"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Roadmap Progress -->
+  <div class="card">
+    <h2>Roadmap Progress — B1+ → C1</h2>
+    <div class="progress-ring-wrap">
+      <svg width="90" height="90" viewBox="0 0 90 90">
+        <circle cx="45" cy="45" r="38" fill="none" stroke="#f0f0f0" stroke-width="9"/>
+        <circle cx="45" cy="45" r="38" fill="none" stroke="#c0392b" stroke-width="9"
+          stroke-dasharray="239" stroke-dashoffset="189"
+          stroke-linecap="round" transform="rotate(-90 45 45)"/>
+        <text x="45" y="49" text-anchor="middle" font-size="16" font-weight="800" fill="#c0392b">21%</text>
+      </svg>
+      <div class="progress-ring-text">
+        <div class="progress-pct">4 / 19</div>
+        <div class="progress-sub">Lessons complete</div>
+        <div class="progress-sub" style="margin-top:6px; color:#c0392b; font-weight:600;">Target: August 2026</div>
+      </div>
+    </div>
+    <div class="progress-detail">
+      <div class="progress-block"><span>Block 1 — Core Grammar</span><span>4 / 5</span></div>
+      <div class="progress-block"><span>Block 2 — Advanced Structure</span><span>0 / 4</span></div>
+      <div class="progress-block"><span>Block 3 — C1 Grammar</span><span>0 / 4</span></div>
+      <div class="progress-block"><span>Block 4 — Vocab & Fluency</span><span>0 / 3</span></div>
+      <div class="progress-block"><span>Block 5 — Review & Assessment</span><span>0 / 3</span></div>
     </div>
   </div>
 
