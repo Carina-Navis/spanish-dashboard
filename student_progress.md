@@ -136,6 +136,34 @@
 
 ## Lesson Roadmap — B1+ → C1 (Target: August 2026)
 
+### Lesson 5 — Passive Voice (2026-04-21)
+
+**Objectives:** Distinguish and produce SER passive (agent present) vs. SE passive (no agent)
+
+**Exercise 1 (Identify & Translate — 6 questions):** 5.5/6
+- All 6 structures correctly identified ✅
+- One vocabulary miss: *las autoridades* = the authorities (not signatures)
+
+**Exercise 2 (Active → Passive — 5 questions):** 0/5
+- Applied SE to all sentences regardless of agent presence
+- Kept agents in SE passive sentences — agent must be dropped entirely
+- Core gap: SER passive flip not executing (object→subject, agent→por)
+
+**Exercise 3 (Targeted Flip Drill — 6 questions):** 1.5/6
+- SER passive 0/3 — *se* structure overriding all three; *fue/fueron* not firing
+- Irregular participle: *componer → compuesto* (not compado)
+- Participle agreement missed: *firmados* not *firmado* (plural subject)
+- SE passive improving: *las tiendas se abren* ✅ perfect; subject flip partially right
+- Win: *por* used correctly when agent present ✅
+
+**Needs review (carry to Lesson 6 opener):**
+- SER passive formula: object→subject + *fue/fueron* + participle (agrees) + *por* + agent
+- SE passive: drop agent entirely, se + verb agrees with noun
+- Irregular past participles in passive context: *compuesto, escrito, abierto, vuelto*
+- Participle gender/number agreement in SER passive
+
+---
+
 ### Block 1 — Core Grammar
 | # | Topic | Status |
 |---|---|---|
@@ -143,7 +171,7 @@
 | 2 | Past Subjunctive + Conditional | ✅ Complete |
 | 3 | Object Pronoun Combinations | ✅ Complete |
 | 4 | Ser vs. Estar — Deep Rules | ✅ Complete |
-| 5 | Passive Voice (ser + participle vs. se passive) | Pending |
+| 5 | Passive Voice (ser + participle vs. se passive) | ⚠ Complete — review opener needed |
 
 ### Block 2 — Advanced Structure
 | # | Topic | Status |
