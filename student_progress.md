@@ -173,10 +173,44 @@
 | 4 | Ser vs. Estar — Deep Rules | ✅ Complete |
 | 5 | Passive Voice (ser + participle vs. se passive) | ⚠ Complete — review opener needed |
 
+### Lesson 6 — Passive Voice Review + Relative Clauses (2026-04-22)
+
+**Objectives:** Lock SER passive flip; introduce relative clauses with indicative vs. subjunctive, relative pronouns
+
+**Passive warm-up (3 sentences — ungraded):**
+- All three used *era/está* instead of *fue/fueron* — preterite of ser needed for completed past actions
+- Dropped agents in all three — *por + agent* must be kept when converting from active
+- Irregular participle missed: *escribido → escrito*
+
+**Exercise 1 (Indicative vs. Subjunctive — 6 questions):** 6/6 ✅
+- Perfect round — correctly distinguished definite vs. indefinite antecedents across all 6
+- Win: *sepa, pueda, permita* (subjunctive) and *habla, paga* (indicative) all correct
+
+**Exercise 2 (Translation — 5 questions):** 1.5/5
+- Wrong construction for relative clause: *quiero que + noun* → should be *noun + que + subjunctive*
+- *está → es* for identity (recurring)
+- Missing *con* in *con quien* — prepositions attach to relative pronoun
+- Subjunctive creep: *digas* used for real past event → *dijiste*
+- *alguien → nadie* in negative sentences
+- Missing *que* connector before *sepa*
+- Win: *lo que, donde, sepa* chosen correctly
+
+**Exercise 3 (Error correction + free production — 7 questions):** 3.5/7
+- Part A: 3.5/5 — fixed ser/estar, nadie, pueda, explique ✅; missed future/hypothetical → subjunctive (*digo → diga*)
+- Part B: 0/2 — free production missing *que + verb* relative clause structure entirely
+
+**Needs review:**
+- SER passive: preterite *fue/fueron* not imperfect *era* for completed actions
+- Free production of relative clauses — *noun + que + indicative/subjunctive*
+- Future/hypothetical *lo que diga* — uncertain future events → subjunctive
+- *nadie* in negative existence claims (*no hay nadie que + subjunctive*)
+
+---
+
 ### Block 2 — Advanced Structure
 | # | Topic | Status |
 |---|---|---|
-| 6 | Relative Clauses + Subjunctive | Pending |
+| 6 | Relative Clauses + Subjunctive | ✅ Complete |
 | 7 | Reported Speech — tense backshifting | Pending |
 | 8 | Gerund vs. Infinitive | Pending |
 | 9 | All Conditional Types (review + Type 1/2/3) | Pending |
