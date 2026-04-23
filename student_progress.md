@@ -173,6 +173,42 @@
 | 4 | Ser vs. Estar — Deep Rules | ✅ Complete |
 | 5 | Passive Voice (ser + participle vs. se passive) | ⚠ Complete — review opener needed |
 
+### Lesson 7 — Reported Speech (Estilo Indirecto) (2026-04-23)
+
+**Objectives:** Apply verb backshifting, time expression shifts, and demonstrative shifts in reported speech
+
+**Exercise 1 (Backshift — 5 questions):** 2/5
+- Correct: future→conditional (*vendría* ✅), imperative→imperfect subjunctive (*llamara* ✅)
+- Errors: present→imperfect (*tuvo* → *tenía*, not preterite); preterite→pluperfect missed (*llegó* → *había llegado*); *sepa/está* → *sabía/estaba* (wrong mood, backshift not applied)
+- Time expression: *mañana* not shifted to *al día siguiente*
+
+**Exercise 2 (Backshift + Time Expressions — 6 questions):** 3/6 verbs right, 0/6 fully correct
+- Verb backshifts landing: *estaba* ✅, *había ido* ✅, *entendía* ✅, *había llamado* ✅ — real progress
+- Pluperfect form: *había trabajaba* → *había trabajado* (participle, not imperfect)
+- Time expressions missed across all 6: *hoy → ese día*; *esta mañana → esa mañana*; *ayer → el día anterior*
+- Demonstrative: *este → ese* missed (#3)
+- Gender agreement: *esta apartamento* → *ese apartamento* (masculine noun)
+- *no gustaba* → *no le gustaba* (gustar needs indirect object)
+
+**Exercise 3 (Full Conversion with Secondary Shifts — 6 questions):** 1/6 fully correct
+- Perfect sentence: *Nos informaron que no se permitía fumar allí.* ✅
+- Time expressions now clicking: *el día anterior* ✅, *al día siguiente* ✅, *ese día / esa tarde* ✅, *allí* ✅
+- Irregular participle: *abrido* → *abierto* (*abrir* is irregular)
+- *su* vs *se*: *se jefe* → *su jefe* (possessive, not reflexive)
+- Future→conditional slipped once: *llamaba* → *llamaría*
+- Demonstrative *este → ese* still inconsistent (#2 wrote *estaba* instead of *ese*)
+- Verb pronoun in reported speech: *ayudarte → ayudarme*; *te llamo → me llamaría*
+- Participle swap: *dicho* → *dejado* (he left a message, not said it)
+
+**Needs review:**
+- Irregular past participles in reported speech: *abierto, escrito, visto, puesto*
+- *su* (possessive) vs *se* (reflexive) — don't confuse them
+- Demonstrative shift: *este/esta/esto → ese/esa/eso* — still not automatic
+- Future→conditional: mostly right but drifted to imperfect once
+- Verb pronouns shift in reported speech (*te → me*, *tu → su*)
+
+---
+
 ### Lesson 6 — Passive Voice Review + Relative Clauses (2026-04-22)
 
 **Objectives:** Lock SER passive flip; introduce relative clauses with indicative vs. subjunctive, relative pronouns
@@ -211,7 +247,7 @@
 | # | Topic | Status |
 |---|---|---|
 | 6 | Relative Clauses + Subjunctive | ✅ Complete |
-| 7 | Reported Speech — tense backshifting | Pending |
+| 7 | Reported Speech — tense backshifting | ✅ Complete |
 | 8 | Gerund vs. Infinitive | Pending |
 | 9 | All Conditional Types (review + Type 1/2/3) | Pending |
 
