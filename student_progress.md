@@ -272,3 +272,60 @@
 | R1 | Review: Subjunctive + Conditionals | Pending |
 | R2 | Review: Pronouns + Ser/Estar | Pending |
 | R3 | Full diagnostic re-test | Pending |
+
+---
+
+### Re-Entry Session (2026-09-22) — Diagnostic + Review
+
+**Context:** 5-month gap since Lesson 7 (Apr 23). Re-entry diagnostic administered before resuming new material.
+
+---
+
+**Re-Entry Diagnostic (9 questions across Lessons 1–7):** 3.5 / 9
+
+| Topic | Result |
+|---|---|
+| Ser/Estar — events trap | ✅ Retained |
+| Relative clauses — indicative vs. subjunctive contrast | ✅ Retained |
+| Present subjunctive — conjugation | ⚠ Trigger known, form slipping (*llegan* vs *lleguen*) |
+| Object pronoun combinations | ⚠ Pronouns right, placement wrong (*mandé se lo* → *se lo mandé*) |
+| Past subjunctive + conditional perfect | ❌ Faded (*sepa* used instead of *hubiera sabido*) |
+| SER passive formula | ❌ Faded |
+| Reported speech — backshifts | ❌ Faded (preterite not shifted to pluperfect) |
+
+---
+
+**Review 1 — Past Subjunctive + Conditional Perfect (5 questions):** 1/5 fully correct
+
+- #1 ✅ — *hubiera llegado / habríamos perdido* — perfect
+- #2: *habría dando* → *habría dado* (gerund used instead of past participle in result clause)
+- #3: *huberia sabado* → *hubiera sabido* (spelling; *saber* → *sabido*, not *sabado*)
+- #4: *habrían evidado* → *habrían evitado* (spelling)
+- #5: *hubríamos* → *hubiéramos* (conditional perfect used in si-clause instead of pluperfect subjunctive)
+- **Win:** Framework alive — all 5 attempted correct structure; pluperfect subjunctive firing in 3/5 si-clauses
+
+---
+
+**Review 2 — SER Passive + Reported Speech (6 questions):** 1.5 / 6
+
+SER Passive:
+- Consistent error: *con* used for agent across all 3 sentences → must be **por**
+- Participle agreement: *leido* → *leída* (feminine agreement with subject)
+- Irregular participle: *escribido* → *escrito*
+- Number: *fueron* → *fue* (singular subject *el informe*)
+
+Reported Speech:
+- #4: *había entendido* → *entendía* (present→imperfect, not pluperfect); *este → ese* missed
+- #5: *habría llamado* → *llamaría* (future→conditional, not conditional perfect); *tu→mi* and *mañana→al día siguiente* missed
+- #6: *había ido* ✅ (preterite→pluperfect landing); *esta→esa* missed; *bano→banco* typo
+
+---
+
+**Needs review (carry to next sessions):**
+- **por** (not *con*) for agent in SER passive — all 3 sentences wrong
+- Present → imperfect in reported speech (*entendía*, not *había entendido*)
+- Future → conditional in reported speech (*llamaría*, not *habría llamado*)
+- Demonstrative shift *este/esta → ese/esa* in reported speech — still not automatic
+- Irregular past participles: *escrito, leído, sabido*
+- Pluperfect subjunctive spelling: *hubiera* (not *huberia*)
+
