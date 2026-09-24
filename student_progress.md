@@ -329,3 +329,32 @@ Reported Speech:
 - Irregular past participles: *escrito, leído, sabido*
 - Pluperfect subjunctive spelling: *hubiera* (not *huberia*)
 
+
+---
+
+## Session Log — Sep 23, 2026 (Return Session Day 2)
+
+**Warm-Up (Pluperfect Subj + Conditional Perfect): 2.5/5**
+- escrito ✅ (escribir participle), leído ✅ (leer participle — wrote leío, accepted as phonetic)
+- hubieramos ✅ (prompt: complete the si-clause stem)
+- Two compound-tense slots not fully attempted
+
+**Drill 1 — SER Passive (6 sentences): 3/6**
+- All 6 used *por* correctly ✅ — por/con confusion fully resolved
+- Participle agreement errors throughout (gender/number with new subject) — needs one more drill
+
+**Drill 2 — Reported Speech (5 sentences): 2.5/5**
+- future→conditional ✅, present→imperfect ✅, preterite→pluperfect ✅
+- *fue* instead of *era* for ser (ser/estar imperfect confusion)
+- *tengamos* instead of *teníamos* (present subj instead of imperfect indicative)
+- Secondary shifts (tú→mi, mañana→al día siguiente, demonstrative gender ese/esa) still inconsistent
+
+**Lesson 8 — Gerund vs. Infinitive (Exercise 1): 4/7**
+- ✅ Correct: llevar+time (esperando), perception verb (jugando), manner (hablando), seguir (trabajando)
+- ❌ Errors: subject position (*hablando* → *hablar*), after *es importante* (*pensando* → *pensar*), after preposition *de* (*revisando* → *revisar*)
+- Pattern: gerund contexts solid; preposition→infinitive rule not yet automatic
+
+**Next session queue:**
+1. Mini-review: SER passive (participle agreement focus)
+2. Mini-review: Reported speech secondary shifts
+3. Lesson 8 Exercise 2 (preposition + infinitive drill)
