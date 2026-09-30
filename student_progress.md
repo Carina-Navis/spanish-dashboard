@@ -358,3 +358,36 @@ Reported Speech:
 1. Mini-review: SER passive (participle agreement focus)
 2. Mini-review: Reported speech secondary shifts
 3. Lesson 8 Exercise 2 (preposition + infinitive drill)
+
+---
+
+## Session Log — Sep 30, 2026
+
+**Warm-Up (Conjugations): 2/5**
+- hubieran llegado ✅
+- escrito / vuelto ✅ (correct participles, but written as ha escrito / ha vuelto — clarified participle ≠ present perfect)
+- diría ❌ (wrote diga = present subjunctive — conditional/subjunctive confusion)
+- pudiéramos ❌ (wrote podría = conditional — same confusion)
+
+**Mini-Review 1 — SER Passive (participle agreement): 4/5**
+- Agreement landing consistently across all gender/number combos ✅
+- Irregular participle error: descubrida → descubierta (descubrir is irregular)
+- Key irregular participles reviewed: abrir/cubrir/descubrir/escribir/hacer/decir/ver/volver/poner/romper/morir
+
+**Mini-Review 2 — Reported Speech Secondary Shifts: 1/5**
+- allí ✅ (aquí→allí correct in 2 sentences)
+- había ✅ (hay→había correct)
+- All secondary shifts missed: mañana, esta/estas/este, tu/tuyo, hoy
+- Verb backshifts also slipping: future→conditional not automatic (wrote imperfect/subjunctive)
+- Ser/estar confusion persisting (estaba instead of era)
+
+**Lesson 8 Exercise 2 — Preposition + Infinitive: 2/7**
+- Gerund contexts ✅ (seguir+gerund, perception verb — both correct)
+- Preposition + infinitive: 0/5 — wrote conjugated forms (decido, practica, aprobaron, terminamos) and gerund (llegando after al)
+- Key insight clarified: infinitive = unconjugated verb (-ar/-er/-ir form); preposition → freeze the verb
+- al + infinitive = "upon doing" — not gerund
+
+**Next session queue:**
+1. Mini-review: Reported speech secondary shifts (full table drill)
+2. Mini-review: Preposition + infinitive (targeted repeat)
+3. Lesson 8 Exercise 3 or new lesson depending on performance
