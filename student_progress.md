@@ -391,3 +391,37 @@ Reported Speech:
 1. Mini-review: Reported speech secondary shifts (full table drill)
 2. Mini-review: Preposition + infinitive (targeted repeat)
 3. Lesson 8 Exercise 3 or new lesson depending on performance
+
+---
+
+## Session Log — Oct 2, 2026
+
+**Warm-Up (Conjugations): 2/5**
+- hecho ✅, abierto ✅ (irregular participles solid)
+- deciría ❌ → diría (decir irregular conditional stem: dir-)
+- hubieramos podido ❌ → pudiéramos (answered pluperfect subj instead of imperfect subj)
+- volvería ❌ → volverían (singular ending for ellos — needs -ían)
+
+**Mini-Review 1 — Reported Speech Secondary Shifts: 1.5/5**
+- tu→su ✅, aquí→allí ✅, tuyas→suyas ✅, son→eran ✅
+- Present→imperfect backshift still failing: using conditional instead (podría→podía, tendría→tenía)
+- Secondary shifts still missing: hoy→ese día, esta→esa, mañana→al día siguiente, ahora→en ese momento
+- ir a + inf → iba a + inf (not fue a); estas→esas gender error (wrote estos)
+
+**Mini-Review 2 — Preposition + Infinitive: 5/7**
+- Big improvement from 2/7 last session
+- Correct: antes de, sin, en lugar de, para (all preposition + infinitive) ✅
+- al + infinitive: still one error (vió→ver) — but corrected in Exercise 3 next drill
+- Subject position: still one error (Vive→Vivir)
+
+**Lesson 8 Exercise 3 — Mixed Drill: 4.5/7**
+- al + escuchar ✅ (fixed from last session!)
+- Subject position ✅, manner/simultaneous ✅
+- discutido ❌ → discutiendo (gerund ≠ past participle)
+- continuar + entrenar ❌ → entrenando (continuar = seguir → gerund)
+- antes de + toma ❌ → tomar (preposition + infinitive still catching occasionally)
+
+**Next session queue:**
+1. Mini-review: Reported speech — present→imperfect backshift + secondary shifts
+2. Mini-review: continuar/seguir + gerund vs. preposition + infinitive contrast
+3. Lesson 8 complete — begin Lesson 9 if ready
