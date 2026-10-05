@@ -425,3 +425,43 @@ Reported Speech:
 1. Mini-review: Reported speech — present→imperfect backshift + secondary shifts
 2. Mini-review: continuar/seguir + gerund vs. preposition + infinitive contrast
 3. Lesson 8 complete — begin Lesson 9 if ready
+
+---
+
+## Session Log — Oct 5, 2026
+
+**Warm-Up (Conjugations): 1/5**
+- puesto ✅ (poner irregular participle)
+- saldría ❌ → saldríamos (correct irregular stem, wrong person: nosotros needs -íamos)
+- hubería tenido ❌ → tuviera (pluperfect subj vs imperfect subj — persistent confusion)
+- quisiería ❌ → querrían (mixed subjunctive stem with conditional ending; conditional of querer = querr-)
+- hubería sabido ❌ → supiera (same pluperfect vs imperfect subj confusion)
+- Key table reinforced: imperfect subj = 1 word from preterite stem; conditional = irregular stem + -ía; pluperfect subj = hubiera + participle
+
+**Mini-Review 1 — Reported Speech: 2.5/5 (up from 1.5)**
+- tenía ✅, podía ✅, estaba ✅, su ✅, esa semana ✅, al día siguiente ✅
+- hoy → ese día ❌ (still not automatic)
+- ahora → en ese momento ❌ (wrote todavía)
+- sé → sabía ❌ (homophone confusion: sé=I know vs se=reflexive)
+- ayudarte → ayudarme ❌ (pronoun shift in reported speech)
+- trabaja ❌ → trabajaba (present tense written instead of imperfect)
+
+**Mini-Review 2 — Gerund vs. Infinitive: 6/6 ✅**
+- Lesson 8 complete — all contexts automatic
+
+**Lesson 9 — Advanced Relative Clauses, Exercise 1: 1/6**
+- First exposure — low score expected
+- que + subjunctive after nadie ✅
+- cuyo/cuya (whose) not recognized — used quien and donde instead
+- lo que vs donde swapped
+
+**Lesson 9 — Advanced Relative Clauses, Exercise 2: 4/6**
+- donde ✅ (×2), lo que ✅, que + subjunctive ✅
+- cuya → cuyo (director = masc sg, cuyo agrees with possessed noun not antecedent) ❌
+- cuyo → cuyas (explicaciones = fem pl) ❌
+- Core rule learned: cuyo agrees with the THING POSSESSED, not the antecedent
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive forms (1-word, from preterite stem)
+2. Mini-review: reported speech (hoy→ese día, ahora→en ese momento, pronoun shifts)
+3. Lesson 9 Exercise 3: cuyo agreement + indicative vs subjunctive in relative clauses
