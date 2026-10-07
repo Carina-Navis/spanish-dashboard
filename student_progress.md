@@ -465,3 +465,49 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive forms (1-word, from preterite stem)
 2. Mini-review: reported speech (hoy→ese día, ahora→en ese momento, pronoun shifts)
 3. Lesson 9 Exercise 3: cuyo agreement + indicative vs subjunctive in relative clauses
+
+---
+
+## Session Log — Oct 6, 2026 (SHORT SESSION — private tutor in 30 min)
+
+**Warm-Up (Imperfect Subjunctive): 0/3 first attempt, 0/3 second attempt**
+- All 3 answers were conditional forms, not imperfect subjunctive
+- First attempt: Podríamos ❌ → pudiéramos; diría ❌ → dijera; vendría ❌ → viniera
+- Second attempt: supiería ❌ → supiera (stem correct, -ía ending wrong); tangan ❌ → tuvieran; quisierías ❌ → quisieras (stem correct, -ías ending wrong)
+- Pattern: getting irregular stems right (supier-, quisier-) but adding -ía/-ías conditional endings
+- Key fix: imperfect subj endings = -ra/-ras/-ra/-ramos/-ran (NO í)
+- Session ended early — private tutor session
+
+---
+
+## Session Log — Oct 7, 2026
+
+**Warm-Up (Imperfect Subjunctive): 5/5 ✅ BREAKTHROUGH**
+- hablara ✅, pudieras ✅, tuviéramos ✅ (missing accent noted), supieran ✅, viniera ✅
+- No -ía endings — rule has clicked
+- Minor: tuviéramos written without accent (tuvieramos)
+
+**Mini-Review 1 — Reported Speech Time Shifts: 3.5/5**
+- hoy→ese día ✅ (but wrote "esa día" — día is masculine → ese)
+- al día siguiente ✅
+- en ese momento ✅
+- esa semana ✅
+- Errors: "se llamaba" ❌ → "me llamaba" (te→me pronoun shift when reporting); "está" ❌ → "era" (es→era backshift)
+- Remaining gap: día = masculine (ese, not esa)
+
+**Mini-Review 2 — Cuyo Agreement: 0/4 first attempt, 4/4 second attempt ✅**
+- First attempt: consistently agreed with owner not thing possessed
+- Second attempt: all correct after rule reinforcement
+- Rule now solid: cuyo agrees with THING POSSESSED (noun after blank), ignore owner
+
+**Lesson 9 Exercise 3 — Indicative vs. Subjunctive in Relative Clauses: 5/6**
+- vive ✅, hable ✅, sabe ✅, toca ✅, pueda ✅
+- #4 "tanga" ❌ → "tenga" (spelling error only — concept correct)
+- Indicative vs subjunctive distinction landing cleanly on all 6
+
+**LESSON 9 COMPLETE**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive (maintain the breakthrough — no -ía)
+2. Mini-review: reported speech (ese día gender; te→me pronoun shift; era not está)
+3. Lesson 10 — Begin new lesson
