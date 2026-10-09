@@ -511,3 +511,49 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive (maintain the breakthrough — no -ía)
 2. Mini-review: reported speech (ese día gender; te→me pronoun shift; era not está)
 3. Lesson 10 — Begin new lesson
+
+---
+
+## Session Log — Oct 9, 2026
+
+**Warm-Up (Imperfect Subjunctive): 3/5**
+- fuera ✅, hiciéramos ✅ (missing accent), quisieran ✅
+- pusiera ❌ → pudiera (confused poder/poner: pudieron→pudier- vs pusieron→pusier-)
+- dijiaras ❌ → dijeras (extra -i- inserted: dijeron→dijer-+as)
+
+**Mini-Review — Reported Speech: 2.5/5**
+- tenía ✅, ese día ✅ (gender correct this time!), para mí ❌ (wrote "para me")
+- en ese momento ❌ ×2 (dropped "en" in #2 and #5 — persistent)
+- podía ❌ (wrote pudía — wrong imperfect form)
+- me llamaban ❌ → wrote "me llamabamos" (person error: they → 3rd pl, not nosotros)
+- siguiente ❌ (spelled "seguente")
+- Recurring gaps: en ese momento (needs "en"), ese día gender (improving), para mí after preposition
+
+**Lesson 10 — Subjunctive in Adverbial Clauses, Exercise 1: 3/6**
+- salgas ✅, ayudes ✅, entienda ✅
+- viena ❌ → venga (venir irregular subjunctive)
+- van ❌ → vea (used indicative of ir instead of subjunctive of ver)
+- sabas ❌ → sepas (saber irregular subjunctive)
+- Key table reinforced: saber→sepa, venir→venga, ir→vaya, ser→sea
+
+**Lesson 10 — Exercise 2 (choose conjunction, scaffolded): 5/5 but noted as too easy (in-order hints)**
+**Lesson 10 — Exercise 2 Remix (no hints): 2/5**
+- para que ✅, antes de que ✅
+- con tal de que ❌ → con tal de que (positive condition); confused with a menos que and sin que
+- a menos que ❌ → sin que (#5); swapped with a menos que
+- Pattern: sin que (bypassing someone), a menos que (unless/negation), con tal de que (positive condition)
+
+**Lesson 10 — Exercise 3 (full production): 2/5**
+- con tal de que + devuelvas ✅ (perfect)
+- antes de que → para que ❌ (#1 — purpose vs before confusion)
+- pagen → paguen ❌ (g→gu spelling change before e)
+- vea → viera ❌ (past main clause → imperfect subj in subordinate)
+- lluega → llegue ❌ (g→gu + wrong stem)
+- Key pattern: -gar verbs → g→gu before e: pague, llegue, juegue
+
+**LESSON 10 IN PROGRESS**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive (poder vs poner distinction)
+2. Mini-review: reported speech (en ese momento, para mí)
+3. Lesson 10 Exercise continuation: irregular subjunctive in adverbial clauses + g→gu spelling
