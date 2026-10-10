@@ -557,3 +557,41 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive (poder vs poner distinction)
 2. Mini-review: reported speech (en ese momento, para mí)
 3. Lesson 10 Exercise continuation: irregular subjunctive in adverbial clauses + g→gu spelling
+
+---
+
+## Session Log — Oct 10, 2026
+
+**Warm-Up (Imperfect Subjunctive): 5/5 ✅**
+- pusiera ✅, pudieras ✅, supiéramos ✅ (missing accent), quisiera ✅, fueran ✅
+- poner/poder distinction fully resolved
+- Accent on -éramos form still missing (supiéramos, tuviéramos pattern)
+
+**Mini-Review — Reported Speech: 2/5**
+- en ese momento + me necesitaba ✅ (perfect), en ese momento + tenía ✅ (perfect)
+- "en ese día" ❌ ×2 (#2, #5) → ese día (hoy shifts to ese día with NO "en")
+- le sabía ❌ → lo sabía (direct object pronoun)
+- esa ❌ → eso (esto/eso/aquello = neuter)
+- mi → mí ❌ (after preposition: mí with accent)
+- Key rule cemented: ahora → EN ese momento; hoy → ese día (no "en")
+
+**Lesson 10 Exercise 4 (mixed drill): 2.5/6**
+- a menos que ✅, antes de que ✅ ×2, para que ✅
+- sin que ❌ ×1 (used antes de que — bypassing ≠ before)
+- para que ❌ ×1 (used sin que — purpose ≠ without)
+- con tal de que ❌ (wrote "en tal de que")
+- habera ❌ → haya (haber irregular subjunctive)
+- llegua ❌ → llegues (g→gu still catching)
+- aprobara ❌ → apruebe (present main clause → present subj, not imperfect subj)
+- vea ❌ → viera (past main clause → imperfect subj)
+- Key rule: present/future/imperative main → present subj; past main → imperfect subj
+
+**LESSON 10 IN PROGRESS — one more exercise to close it out**
+
+**PERFECT WEEK: 5/5 sessions (Oct 5, 6, 7, 9, 10)**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive
+2. Mini-review: ese día (no "en") vs en ese momento + mí accent
+3. Lesson 10 Ex 5: tense sequence drill (present vs imperfect subj after adverbial conjunctions)
+4. Close Lesson 10 if ready → Lesson 11
