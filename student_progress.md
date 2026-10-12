@@ -595,3 +595,36 @@ Reported Speech:
 2. Mini-review: ese día (no "en") vs en ese momento + mí accent
 3. Lesson 10 Ex 5: tense sequence drill (present vs imperfect subj after adverbial conjunctions)
 4. Close Lesson 10 if ready → Lesson 11
+
+---
+
+## Session Log — Oct 12, 2026
+
+**Warm-Up (Imperfect Subjunctive): 4/5**
+- fueramos ✅ (accent: fuéramos), hubieran ✅, hicieras ✅, viniera ✅
+- trajiera ❌ → trajera (traer preterite: trajeron → stem: trajer- → trajera; no extra -i-)
+
+**Mini-Review — Reported Speech: 2.5/5**
+- ese día ✅ ×3 (hoy→ese día, no "en" — now automatic!)
+- en ese momento ✅, para mí / en mí ✅ ×2 — TARGET GAPS RESOLVED
+- New errors: me sentaba → se sentía (reflexive pronoun shift + correct verb sentir not sentar)
+- compraba → había comprado (preterite→pluperfect in reported speech)
+- ese → eso (esto/eso neuter)
+- por mí → para mí (para=purpose, por≠purpose)
+- teníamos → tenían (person shift: tenemos→tenían in 3rd person)
+- le → lo (direct object not indirect)
+
+**Lesson 10 Final — Tense Sequence: 1/6 → 3/3 (retry) ✅**
+- Imperfect subj (b-forms) partially landing (entendiera ✅)
+- Present subj (a-forms): wrote indicative every time (entiendo, vienes, llegas)
+- Person error: viniera (yo/él) → vinieras (tú)
+- llegueras ❌ → llegara (g→gu only in present subj before e; imperfect uses preterite stem: llegaron→llegara)
+- Retry 3/3 ✅ — rule is present, habit was the issue
+- Key rule cemented: para que/a menos que/antes de que/sin que/con tal de que = ALWAYS subjunctive; main clause tense picks present vs imperfect
+
+**LESSON 10 COMPLETE**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive
+2. Mini-review: reported speech (esto→eso neuter; person shifts; reflexive pronoun shifts)
+3. Lesson 11 — Mixed Conditionals (como si + subjunctive, si + pluperfect → conditional perfect)
