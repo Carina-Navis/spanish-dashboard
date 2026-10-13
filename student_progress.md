@@ -628,3 +628,39 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive
 2. Mini-review: reported speech (esto→eso neuter; person shifts; reflexive pronoun shifts)
 3. Lesson 11 — Mixed Conditionals (como si + subjunctive, si + pluperfect → conditional perfect)
+
+---
+
+## Session Log — Oct 13, 2026
+
+**Warm-Up (Imperfect Subjunctive): 4/5**
+- trajeran ✅, estuviera ✅, pudiéramos ✅ (ACCENT! big improvement), quisiera ✅
+- dijieras ❌ → dieras (dar preterite: dieron→dier-; confused with decir dijeron→dijer-)
+- dar vs decir distinction: diera vs dijera
+
+**Mini-Review — Reported Speech: 4/5**
+- eso era mío ✅ (esto→eso, tuyo→mío — both automatic now)
+- se sentían cansados ✅, eso lo compraban para mí ✅, se llamaba Juan ✅
+- "se vinieron al día siguiente" ❌ → "nos veríamos al día siguiente" (used venir instead of verse; "nos vemos" = verse/to see each other)
+
+**Lesson 11 — Mixed Conditionals, Exercise 1: 4/6**
+- fuera ✅, conociera ✅, hubiera llegado ✅, hubiera sabido ✅
+- hubiera → hubieras (#2, person error: habrías=tú → hubieras)
+- tenga ❌ → tuviera (como si never takes present subj; always imperfect or pluperfect)
+
+**Lesson 11 — Mixed Conditionals, Exercise 2 (translation): 4/6**
+- #1 ✅ perfect: como si fuera rica
+- #2: si (no accent!); hubiéramos not huberiamos (stem: hubier-)
+- #3 ❌: viviera → hubiera vivido ("had lived" = past unreality → pluperfect subj)
+- #4 ❌: Si (no accent); hubieras not hubiera (tú); MISSING "no" (changed meaning entirely)
+- #5: caminaban not caminan (walked = past)
+- #6: Si (no accent); médica not una médica (ser + profession = no article)
+- Recurring: Sí (yes) vs Si (if) — accent error in 3 of 6 sentences
+- Key rule: como si + imperfect = present unreality; como si + pluperfect = past unreality
+
+**LESSON 11 IN PROGRESS**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive
+2. Mini-review: Si vs Sí (if vs yes); como si imperfect vs pluperfect
+3. Lesson 11 Exercise 3: mixed conditional production
