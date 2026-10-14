@@ -664,3 +664,38 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive
 2. Mini-review: Si vs Sí (if vs yes); como si imperfect vs pluperfect
 3. Lesson 11 Exercise 3: mixed conditional production
+
+---
+
+## Session Log — Oct 14, 2026
+
+**Warm-Up (Imperfect Subjunctive): 5/5**
+- dijeran ✅, estuviera ✅, hubiéramos ✅, quisieras ✅, trajera ✅
+- Clean sweep — decir/dijeran fully resolved from yesterday
+
+**Mini-Review — Si vs Sí + como si tense:**
+- Part A (Si/Sí): 6/6 — fully resolved ✅
+- Part B (como si tense): 1/3
+  - #1 ❌: hubiera sido → fuera (PRESENT unreality → imperfect subj, not pluperfect)
+  - #2 ✅: hubiera vivido (past unreality → pluperfect subj)
+  - #3 ❌: bibiera → hubiera bebido (past unreality → pluperfect; also spelling)
+  - Retry: 2/2 ✅ fuera / hubiera bebido — concept confirmed
+
+**Lesson 11 — Exercise 3 (Free Production): 3/4**
+- #1 ❌: ganaría → habría ganado (si + pluperfect → conditional PERFECT, not simple conditional)
+- #2 ✅ minor: fuera un niño (missing article with ser + noun)
+- #3 ✅ minor: trabajar para (not por) a company
+- #4 ✅: si hubieras ido / habría comprado — correct mixed-subject conditional perfect
+- Retry #1: habría ganado ✅ — rule confirmed
+
+**KEY RULES CONFIRMED TODAY:**
+- Si/Sí: RESOLVED
+- como si + imperfect = present unreality (fuera) vs como si + pluperfect = past unreality (hubiera vivido)
+- si + pluperfect subj → conditional PERFECT (habría ganado), NOT simple conditional (ganaría)
+
+**LESSON 11 COMPLETE**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive
+2. Mini-review: si-clause tense matching (imperfect subj → conditional vs pluperfect subj → conditional perfect)
+3. Lesson 12 — Advanced Passive (se pasivo, estar + participle vs ser + participle)
