@@ -699,3 +699,40 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive
 2. Mini-review: si-clause tense matching (imperfect subj → conditional vs pluperfect subj → conditional perfect)
 3. Lesson 12 — Advanced Passive (se pasivo, estar + participle vs ser + participle)
+
+---
+
+## Session Log — Oct 15, 2026
+
+**Vocab added (conversational phrases):**
+- nos encargaremos (we'll take care of it) — natural in Spain/Valencia
+- a pesar de todo (despite everything)
+- ¡trato hecho! (it's a deal) — colloquial Spain
+- señala(me) (point it out to me)
+
+**Warm-Up (Imperfect Subjunctive): 5/5**
+- viniéramos ✅, supiera ✅, dieran ✅, pudieras ✅, hiciera ✅ — clean sweep
+
+**Mini-Review — si-clause tense matching (Round 1): 2/4**
+- #2 ❌: habría comprado → compraría (imperfect subj → simple conditional, not conditional perfect)
+- #4 ❌: habría hablado → hablaría (same error)
+- Note: Andrew flagged the b)/b) pattern threw him off
+- Round 2: 5/6 (entendaría → entendería, spelling only; tense logic 6/6 ✅)
+- si-clause tense matching RESOLVED
+
+**Lesson 12 — Advanced Passive, Exercise 1 (ser vs estar): 5/6**
+- #4 ❌: era → fue (passive action in past = preterite of ser, not imperfect)
+- All other ser/estar distinctions ✅
+
+**Lesson 12 — Exercise 2 (se pasivo): 0/4 → retry 2/3**
+- Core misunderstanding: Andrew added "eran" after se — se pasivo does NOT use ser/estar
+- Formula: se + verb (same tense, number matches noun)
+- Retry: se venden ✅, se firmaron ❌ (number: fue firmado singular → se firmó), se cierran ✅
+- se pasivo structure understood; number agreement needs reinforcement
+
+**LESSON 12 IN PROGRESS**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive
+2. Mini-review: se pasivo number agreement
+3. Lesson 12 Exercise 3: mixed passive (ser/estar/se in context)
