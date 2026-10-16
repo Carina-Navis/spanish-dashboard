@@ -736,3 +736,31 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive
 2. Mini-review: se pasivo number agreement
 3. Lesson 12 Exercise 3: mixed passive (ser/estar/se in context)
+
+---
+
+## Session Log — Oct 16, 2026
+
+**Warm-Up (Imperfect Subjunctive): 5/5**
+- fueran ✅, tuviéramos ✅, fuera ✅, dijeras ✅, pudiera ✅
+- Caught ser/ir trap (both fuer-) — clean
+
+**Mini-Review — se pasivo number agreement: 4/5**
+- se firmó ✅, se abrieron ✅, se hablan ✅, se venden ✅
+- #4 ❌: se resueltó → se resolvió (preterite regular; o→ue stem change doesn't carry into preterite)
+
+**Lesson 12 — Exercise 3 (mixed passive): 5/6 structure + agreement errors**
+- #1 ❌ structure: used se pasivo with por+agent → must use ser passive (La carta fue escrita por la directora) — RESOLVED retry ✅
+- #2 ✅ structure; abierto→abierta (gender)
+- #3 ✅ perfect
+- #4 ✅ structure; era→fue (preterite), punte→puente, retry: la→el (el puente, masculine)
+- #5 ✅ structure; la→las, estaba→estaban, cerrados→cerradas (plural agreement)
+- #6 ✅ structure; se dijo→se dice (present tense) — RESOLVED retry ✅
+- KEY RULE: se pasivo = no/unknown agent · ser pasivo = named agent (por alguien)
+
+**LESSON 12 IN PROGRESS**
+
+**Next session queue:**
+1. Warm-up: imperfect subjunctive
+2. Mini-review: gender agreement on participles (abierta/cerradas/construido)
+3. Lesson 12 Exercise 4: free production — write passive sentences from prompts
