@@ -764,3 +764,42 @@ Reported Speech:
 1. Warm-up: imperfect subjunctive
 2. Mini-review: gender agreement on participles (abierta/cerradas/construido)
 3. Lesson 12 Exercise 4: free production — write passive sentences from prompts
+
+---
+
+## Session Log — Oct 19, 2026
+
+**Conjugation Gauntlet Round 1 (labeled): 3/5**
+- habrán sabido ✅, venga ✅, quisiera ✅
+- haría ❌ → habríamos hecho (condicional compuesto = habría + participio, not simple conditional)
+- habrías ido ❌ → hayas sido (pretérito perfecto subj = haya/hayas + participio; wrong verb + wrong mood)
+- Retry: 2/2 ✅
+
+**Conjugation Gauntlet Round 2 (labeled): 4/5**
+- hayan podido ✅, habrás dicho ✅, habría tenido ✅, hubiera ✅
+- vaya ❌ → vayamos (nosotros person agreement)
+- Compound tenses landing well — labels off next session (Option A: sentence context)
+
+**Mini-review — participle gender agreement: 3/5**
+- escrita ✅, abiertos ✅, cerradas ✅
+- resolvado ❌ → resuelto (irregular participle)
+- rompidas ❌ → rotas (irregular participle: romper→roto)
+- Key irregular participles to memorize: resuelto, roto, abierto, escrito, dicho, hecho, puesto, visto, vuelto
+
+**Lesson 12 — Exercise 4 (free production): 0/5**
+- #1: used se instead of ser+por; no agent
+- #2: jugando (gerund) instead of participio state
+- #3: missing conjugated verb (se construido → se construye)
+- #4: se fue diseño → se diseñó (no fue in se pasivo)
+- #5: se me perdí → se me perdió (3rd person, jacket is subject)
+- Assessment: passive structures not yet automatic enough for cold production
+- Plan: one more structured transformation exercise next session, then retry free production
+
+**WARM-UP CHANGE: Gauntlet format (Option A from next session — sentence context, no tense label)**
+
+**LESSON 12 IN PROGRESS**
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet — sentence context, no labels
+2. Mini-review: irregular participles
+3. Lesson 12 Exercise 4 retry: structured transformation → then free production
