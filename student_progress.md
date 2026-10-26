@@ -803,3 +803,252 @@ Reported Speech:
 1. Warm-up: conjugation gauntlet — sentence context, no labels
 2. Mini-review: irregular participles
 3. Lesson 12 Exercise 4 retry: structured transformation → then free production
+
+---
+
+---
+
+## Session Log — Oct 20, 2026
+
+**Conjugation Gauntlet (sentence context, no labels): 2/5**
+- tenga ✅, hubiera podido ✅
+- has revuelto ❌ → has resuelto (revolver=scrambled; resolver=resolved — DISTINCT verbs)
+- terminaste ❌ → terminara / terminaste is preterite not subjunctive (context required imperfect subj)
+- diría ❌ → diríamos (person agreement — yo vs nosotros)
+
+**Irregular participles drill: 4/5**
+- rota ✅, escritas ✅, hecho ✅, puestas ✅
+- revueltos ❌ → resueltos (same resolver/revolver confusion as gauntlet)
+
+**KEY ERROR (2 hits this session): resuelto vs revuelto**
+- resolver → resuelto (resolved/solved) 
+- revolver → revuelto (scrambled/stirred)
+- Different verbs, different meanings — must be locked in before next session
+
+**Lesson 12 — Exercise 4 structured transformation: 0/6**
+- #1 era escrito ❌ → fue escrito (preterite for completed action, not imperfect)
+- #2 se fue vendido ❌ → se venden zapatos (se pasivo ≠ se+fue/ser)
+- #3 kept agent as subject + era + infinitive ❌ → El edificio fue diseñado por el arquitecto en 1990
+- #4 se fue encontrado ❌ → se encontraron las llaves (same se+fue error; plural agreement)
+- #5 roto → rota ❌ (gender agreement — la ventana = feminine)
+- #6 kept el mecánico as subject ❌ → El coche está reparado (object becomes subject in estar passive)
+- Recurring errors: fue in se pasivo (still), object/subject flip, era vs fue
+
+**Targeted retry (3 sentences): 2/3 → 3/3 after correction**
+- Se venden zapatos aquí ✅ (added unnecessary "los" but structure correct)
+- Se encontraron las llaves ✅ perfect
+- El coche está reparado por el mecánico ❌ → El coche está reparado (estar passive ≠ por+agent; agent disappears)
+- Final clean answer: El coche está reparado ✅
+
+**PASSIVE VOICE RULES — now solid conceptually:**
+- ser + participio → completed action; agent optional with por
+- estar + participio → resulting state; NO por+agent; agent disappears  
+- se + verb → unknown/general agent; NO fue; verb agrees with subject noun
+
+**LESSON 12 IN PROGRESS — Exercise 4 free production still pending**
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (sentence context)
+2. Mini-review: resuelto vs revuelto — one short targeted drill
+3. Lesson 12 Exercise 4: free production attempt
+4. If time: reading comprehension
+
+---
+
+## Notes — Oct 19 (post-session)
+
+**Teacher exercises reviewed:**
+- "El viaje de Laura" — 8/10. Two spelling errors: elijieran→eligieran, concelara→cancelara
+- Key win: #9 si tuviera...elegiría fired automatically in real text ✅
+- si/ser+ir trap gone: fuera used correctly for both (#2 ser, #3 ir) ✅
+
+**Teacher's si-clause probability scale added to framework:**
+- Si tengo + present (~90%) — new, not yet drilled
+- Si tengo + futuro (~50%) — new, not yet drilled  
+- Si tuviera + conditional (~30%) — covered L11
+- Si hubiera + conditional perfect (irreal) — covered L11
+
+**Reading comprehension in Spanish added as occasional 4th exercise type** — when session has room, drop a paragraph + Q&A in Spanish. Production under meaning pressure = C1 skill.
+
+**Warm-up note:** si + present → future (llamaré) to add to gauntlet soon.
+
+---
+
+## Session Log — Oct 21, 2026
+
+**Conjugation Gauntlet (sentence context, no labels): 1/5 → 3/3 retry**
+- hablara ✅
+- hemos terminado ❌ → habremos terminado (para mañana = future deadline → futuro compuesto)
+- viniera ❌ → habría venido (result clause of si+pluperfect = conditional perfect, never subjunctive)
+- vea ❌ → hayas visto (antes = before now → pretérito perfecto de subjuntivo)
+- estuviera ❌ → estén (espero que present = presente subjuntivo; imperfect subj needs past trigger)
+- Retry 3/3 ✅ — context triggers landing after correction
+
+**Mini-review — resuelto vs revuelto: 2/3**
+- resuelto ✅, revueltos ✅
+- resueltan ❌ → resueltas (participio is adjective, never gets verb endings; las disputas = feminine plural)
+
+**Lesson 12 — Exercise 4 free production: 1/5 → 3/3 retry**
+- Las reglas se explican en castellano en este colegio ✅ (perfect)
+- Alguien fue pintado esta casa ❌ → Esta casa fue pintada el año pasado (alguien not subject of passive; gender; pesado→pasado)
+- habrá firmado ❌ → El contrato ya está firmado (future perfect ≠ estar passive)
+- Un arquitecto famoso fue diseñado ese edificio ❌ → Ese edificio fue diseñado por un arquitecto famoso (object/subject flip + por)
+- Se venden pan fresco ❌ → Se vende pan fresco; todas mañana → todas las mañanas
+- Retry 3/3 ✅ — all passive structures producing correctly in free production
+
+**LESSON 12 EXERCISE 4 — COMPLETE ✅**
+**LESSON 12 — COMPLETE ✅**
+
+**Passive voice status: SOLID**
+- ser + participio: object becomes subject; named agent with por; fue not era for completed past
+- estar + participio: resulting state; no por; agent disappears
+- se pasivo: se + conjugated verb; no fue; verb agrees with noun; noun stays in sentence
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (sentence context)
+2. Lesson 13 — new material
+3. If time: reading comprehension in Spanish
+
+---
+
+## Session Log — Oct 23, 2026 (double session)
+
+**Scoring policy updated:** Volume drills scored on structure only. Surface errors (gender, spelling, minor prep) noted but count as correct. Keeps confidence and momentum while still flagging surface issues.
+
+**Conjugation Gauntlet (sentence context): 2/5 → 3/3 retry**
+- hablara ✅, podrías ✅
+- pierdes ❌ → perderás (si + present → future, not present in result clause)
+- entregaron ❌ → habrá entregado (para + future deadline → futuro compuesto, not preterite)
+- terminemos ❌ → termináramos (past trigger pidió → imperfect subjunctive, not present subj)
+- Pattern: trigger-reading errors, not conjugation errors
+- Retry 3/3 ✅
+
+**Se pasivo volume drill (10 sentences): 8/10 structural, 0 structural errors**
+- Never wrote "se fue" — no-fue rule held across all 10 ✅
+- Structural errors: none
+- Surface errors: firmó→firmaron (#2, number), word order (#3), el→la reunión (#4), en→el lunes (#6), semanas→mañanas (#7), contratos spelling + antes de la reunión (#8), repara→reparan (#9)
+- Clean: #1, #5, #10
+
+**Ser passive volume drill (10 sentences): 10/10 structural, 0 structural errors**
+- Object→subject held every time ✅, fue/fueron throughout ✅, por+agent every time ✅
+- Surface errors: sospecho→sospechoso (#2), el puente/diseñado (#4), esos murales pintados (#7), paciente/médico (#8), empleados/despedidos (#9)
+- Clean: #1, #3, #5, #6, #10
+
+**PASSIVE VOICE STRUCTURAL PROGRESS:**
+- Se pasivo: structure automatic, number agreement still slipping
+- Ser passive: structure automatic, gender of irregular nouns (puente, mural) slipping
+- Estar passive: volume drill pending (next session)
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet
+2. Estar + participio volume drill (10 sentences)
+3. Cold mix of all three passive types
+
+---
+
+## Session Log — Oct 23, 2026 (third session)
+
+**Conjugation Gauntlet: 2/5 → 2/2 retry**
+- habríamos sacado ✅, termines ✅ (en cuanto trigger recognized ✅)
+- llegen ❌ → lleguen (-gar verbs: g→gu before e; spelling rule)
+- haya leído ❌ → habré leído (para + future deadline = futuro compuesto, not subjunctive — RECURRING)
+- hicieran ❌ → hicieran wait — Andrew got this right on retry; original was hagan ❌ → hicieran (past trigger quería → imperfect subjunctive — RECURRING)
+- Retry 2/2 ✅
+- Andrew recognizing si... and en cuanto... triggers automatically ✅
+
+**Estar + participio volume drill: 6/10 structural**
+- Structural error (x4 same mistake): era/eran → estaban (past state = estaban, not era/eran)
+  - eran organizados → estaban organizados
+  - eran rotas → estaban rotas
+  - eran cansados → estaban cansados
+  - eran firmados → estaban firmados
+- Key rule: estar past = estaba/estaban (NEVER era/eran for estado pasivo)
+- Present estar passive working correctly ✅
+- Surface errors: abierto→abierta (#1), informática→informe (#8), completa→puesta (#9)
+- Retry 3/3 ✅ — rule clicked immediately on retry
+
+**PASSIVE VOICE — ALL THREE DRILLED:**
+- Se pasivo: structural 8/10 ✅
+- Ser passive: structural 10/10 ✅
+- Estar passive: structural 6/10, corrected immediately ✅
+- Past estar passive (estaba/estaban) = new rule to reinforce
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet
+2. Cold mix — all three passive types (10 sentences, unlabeled)
+3. Lesson 13 — new material
+
+---
+
+## Session Log — Oct 25, 2026
+
+**Conjugation Gauntlet: 3/5**
+- habrá enviado ✅ (para + future deadline — FIXED from last week ✅)
+- llegaran ✅ (past trigger → imperfect subj)
+- supiera ✅ (no creía → imperfect subj)
+- te mojarías ❌ → te mojarás (si + present → future, not conditional; conditional needs si + imperfect subj)
+- hubiéramos tenido ❌ → tengamos (cuando + future = presente subj, not pluperfect subj)
+
+**Cold mix passive drill (all 3 types, unlabeled): 6/10 structural**
+- Structural errors (wrong passive type):
+  - #1: alguien estuvo robado → Se robó mi coche anoche (se pasivo, drop alguien)
+  - #6: estuvieron contratadas con named agent → fueron contratadas por la empresa (ser passive)
+  - #9: estaba with named agent + ayer → fue aprobada por el senado (ser passive)
+  - #10: fue apagado (action) → estaban apagadas (state = estar)
+- KEY RULE still slipping: named agent (por) present → ser passive always; estar NEVER takes por
+- Surface errors: novela feminine (#3), pasta fresca (#4), se habla singular (#7), enviado spelling (#8)
+- Retry 2/2 ✅ — rule clicked on retry
+- Note: contactadas vs contratadas (contacted vs hired) — vocab slip
+
+**PASSIVE VOICE STATUS after cold mix:**
+- Se pasivo: choosing correctly when no agent ✅
+- Ser passive: correct when named agent present ✅ (after correction)
+- Estar passive: present state solid ✅; past state (estaba/estaban) improving
+- Remaining gap: real-time decision between the three under pressure
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (add cuando + future and si + present → future triggers)
+2. Lesson 13 — new material
+
+---
+
+## Session Log — Oct 26, 2026
+
+**Conjugation Gauntlet: 3/5**
+- llegáramos ✅, habrá hablado ✅ (para+future landing consistently now), haga ✅
+- pierdes ❌ → perderás (si+present→future — 3rd consecutive session with this error)
+- terminemos ❌ → terminen (cuando trigger correct ✅, wrong person: ellos not nosotros)
+
+**Si-clause drill (10 sentences, reversed — result clause given, fill si-clause): 10/10**
+- Proved the rule is known; error is directional (left-to-right application under pressure)
+- Fix: read result clause first before writing si-clause
+
+**LESSON 13: Subjunctive in Relative Clauses — introduced**
+
+Core rule:
+- Known/specific antecedent → indicative
+- Unknown/hypothetical antecedent → subjunctive
+- Negated antecedent (nadie, ninguno) → always subjunctive
+- Question (¿hay alguien que...?) → subjunctive
+
+**Exercise 1 (labeled hints): 6/6 structural**
+- All mood choices correct ✅
+- Surface: tengan→tenga (una casa = singular)
+
+**Exercise 2 (no hints, choose from context): 6/6 — perfect**
+- entienda vs entiende (hypothetical vs real person) ✅
+- arregló (specific past technician = preterite indicative) ✅
+- haya vivido (negated + perfect aspect) ✅ — sharp
+- Concept fully landed on first session
+
+**LESSON 13 STATUS: Exercise 1 + 2 complete ✅**
+
+**Ongoing error: si + present → future (3 sessions)**
+- Rule known when working backwards (10/10 reversed drill)
+- Error is forward-production under pressure
+- Next session: add si+present→future sentences to gauntlet until automatic
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (keep si+present→future in rotation)
+2. Lesson 13 Exercise 3: free production with relative clauses
+3. Mini-review: passive voice cold sentences (keep sharp)
