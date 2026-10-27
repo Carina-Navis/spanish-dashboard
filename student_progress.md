@@ -1102,3 +1102,61 @@ Andrew's sentences → corrections:
 1. Warm-up: conjugation gauntlet (si+present→future — 2 more sessions to confirm)
 2. Lesson 14 — new material
 3. Optional: passive voice cold sentence (1-2 sentences to keep sharp)
+
+---
+
+## Session Log — Oct 27, 2026 (Session 2)
+
+**LESSON 14: Nominalizations & Complex Noun Phrases**
+
+Three structures introduced:
+- Lo + adj: nominalizes a quality ("the [adj] thing") — no que, no verb after lo
+- Lo que + verb (indicative): nominalizes a clause ("what...") — indicative, real reference
+- El hecho de que + subjunctive: "the fact that" — El always required, always subjunctive
+
+**Exercise 1 (identify structure + mood): 5/5 ✅**
+- All identifications correct
+- Mood reasoning: "opinion" → corrected to "el hecho de que always takes subjunctive, fixed rule"
+- "assume in future" for hayan ganado → corrected: perfect subj looking backward, fixed rule
+
+**Exercise 2 (fill in blank): 5/5 structural ✅**
+- Surface: sorprendé → sorprende (#1, accent error)
+- Rule locked: lo que/lo+adj → indicative; el hecho de que → always subjunctive
+
+**Exercise 3 (free production — first pass): 0/5 structural**
+Three patterns of error:
+1. Lo + adj vs Lo que confusion: "Lo que más importante" → Lo importante; "Lo que más raro" → Lo raro
+2. Missing "El" in El hecho de que (×2)
+3. Missing "que" in Lo que → "Lo necesito" instead of "Lo que necesito"
+4. Wrong verb construction: "me da preocupado" → me preocupa (gustar-type verb)
+5. Agreement: nadie + plural verb → nadie oyó (singular)
+
+**Exercise 3 (corrected retry): 5/5 ✅**
+
+**Exercise 4 (mixed free production — first pass): 1/6 structural**
+- #4 ✅ (El hecho de que no me hayan respondido me preocupa — clean)
+- #1 ❌: estudie → hayas estudiado (past = perfect subj); estoy orgulloso → me enorgullece
+- #2 ❌: molesta → me molesta (gustar-type verb missing indirect object pronoun)
+- #3 ❌: Lo mejor cosa que viva → Lo mejor de vivir (lo+adj needs no cosa/que; de+infinitive)
+- #5 ❌: me lastima → me lastimó (tense mismatch)
+- #6 ❌: es que no saber cuando para → es saber cuándo parar (lo+adj+es+infinitive, no que)
+
+**Exercise 4 (corrected retry): 5/5 structural ✅**
+- Surface only: lastimo → lastimó (#5, accent on preterite)
+
+**LESSON 14 STATUS: COMPLETE ✅**
+
+Key rules landed:
+- Lo + adj + es + infinitive (no que after es)
+- Lo que + verb (indicative, real reference)  
+- El hecho de que + subjunctive (El always, rule is absolute)
+- Gustar-type verbs (molestar, preocupar, sorprender) always need indirect object pronoun
+
+**Ongoing notes:**
+- Masculine nouns: el ruido, el clima (common gender errors)
+- Tense consistency: match Spanish tense to English tense signal
+- Accent on preterite 3rd person sg: lastimó, llegó, etc.
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (si+present→future: 1-2 more sessions to confirm)
+2. Lesson 15 — new material
