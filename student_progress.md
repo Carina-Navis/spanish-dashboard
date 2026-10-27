@@ -1052,3 +1052,53 @@ Core rule:
 1. Warm-up: conjugation gauntlet (keep si+present→future in rotation)
 2. Lesson 13 Exercise 3: free production with relative clauses
 3. Mini-review: passive voice cold sentences (keep sharp)
+
+---
+
+## Session Log — Oct 27, 2026
+
+**Conjugation Gauntlet: 3/5 structural (5/5 structural — see below)**
+
+Correction: final score = 5/5 structural, 2 surface errors.
+- te sentarás ✅ structural (si+present→future FINALLY CORRECT — first time in 4 sessions); surface: sentarás→sentirás (sentarse≠sentirse)
+- tengamos ✅ (cuando+future → presente subj, nosotros form)
+- perdiera ✅ structural (past trigger → imperfect subj), surface: perdiera→pidiera (perder≠pedir; pedir→pidiera e→i)
+- habrán terminado ✅ (para+deadline → futuro compuesto, ellos)
+- sea ✅ (negated antecedent → subjunctive)
+
+**KEY WIN: si+present→future fired correctly for the first time — 4 sessions of drilling paid off.**
+
+**LESSON 13 Exercise 3: Free production with relative clauses**
+
+Andrew's sentences → corrections:
+
+1. "Me gustaba el Bourne Identity porque leí muy rapido." ✅ structural (known book → indicative) | surface: rapido→rápido
+2. "Busco un trabajo que pague bien." ✅ PERFECT
+3. "No hay nadie in la oficina hable frances." ❌ missing "que" (structural); surface: in→en, frances→francés
+4. "Roberto es muy honesta, siempre dice la verdad." ✅ structural (known person → indicative) | surface: honesta→honesto
+5. "Quiero encontrar un restaurante tenga una terazza para comer." ❌ missing "que" (structural); surface: terazza→terraza
+6. "Hay alguien me ayude moverse este fin de semaña." ❌ missing "que" + moverse→mudarse (structural); surface: semaña→semana, missing ¿
+
+**Exercise 3 score: 3/6 structural**
+
+**Pattern identified: dropping "que" in relative clauses** — mood choices all correct; the relative pronoun itself disappears under production pressure.
+
+**Repair drill (3/3 ✅):** Andrew rewrote all three missing-que sentences correctly on retry.
+- Rule reinforced: antecedent + QUE + verb — que never drops.
+- Surface note: "en" la oficina still missing in A.
+
+**LESSON 13 STATUS: COMPLETE ✅**
+- Mood selection (indicative vs subjunctive): automatic ✅
+- Negated antecedents: ✅
+- Question forms: ✅
+- Que connector: repaired through drill ✅
+
+**Ongoing tracking:**
+- si+present→future: BREAKTHROUGH today — keep in gauntlet 2 more sessions to confirm automatic
+- moverse vs mudarse: note for vocabulary
+- pedir vs perder: note for vocabulary (e→i stem change: pedir→pidiera)
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (si+present→future — 2 more sessions to confirm)
+2. Lesson 14 — new material
+3. Optional: passive voice cold sentence (1-2 sentences to keep sharp)
