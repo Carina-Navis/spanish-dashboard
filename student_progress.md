@@ -1160,3 +1160,39 @@ Key rules landed:
 **Next session queue:**
 1. Warm-up: conjugation gauntlet (si+present→future: 1-2 more sessions to confirm)
 2. Lesson 15 — new material
+
+---
+
+## Session Log — Oct 28, 2026
+
+**Conjugation Gauntlet: 2/5 structural**
+- llegue ✅ (en cuanto + future → presente subj)
+- hablara ✅ (past trigger → imperfect subj)
+- estudias ❌ → estudias on retry ✅ (si + present INDICATIVE, not subjunctive — reversed the error)
+- habremos terminado ❌ first → ✅ on retry (hayamos = present perf subj; habremos = futuro compuesto)
+- puedan ❌ first → ✅ on retry (ojalá → subjunctive; ellos poder → puedan, e→ue stem change)
+
+**Key note #1: si-clause:** si + present INDICATIVE (estudias), never subjunctive. cuando/en cuanto = subjunctive. Si = indicative.
+**Key note #2: futuro compuesto vs present perf subj:** habremos (future haber) vs hayamos (subjunctive haber)
+
+**LESSON 15: Register & Idiomatic Expression**
+
+**Exercise 1 (identify register): 5/6**
+- #1 Formal ✅, #2 Colloquial ✅, #3 Neutral ✅, #4 Colloquial ✅, #5 Formal ✅
+- #6 ❌ Neutral → Colloquial: ya (filler) + es que (informal softener) + cuadrar (colloquial idiom) = colloquial
+
+**Key register signals learned:**
+- Colloquial: ya/oye/bueno/mira, es que, idioms (echar una mano, no hay manera, no me cuadra)
+- Formal: usted/le, conditional of courtesy, a la mayor brevedad, passive voice + abstract nouns
+
+**Exercise 2 (register rewrite): 1/3 first pass, 3/3 on retry**
+- #1 ✅ first pass: ¿Me podría ayudar? (conditional = formal marker)
+- #2 ❌ first pass: kept "prorrogado" (formal vocab) → Oye, que han alargado el plazo ✅
+- #3 ❌ first pass: kept "ni idea" + wrong tense → Desconozco la situación actual ✅
+- Rule: register shift requires BOTH structure AND vocabulary to change
+
+**LESSON 15 STATUS: COMPLETE ✅**
+
+**Next session queue:**
+1. Warm-up: conjugation gauntlet (watch si + indicative vs cuando + subjunctive)
+2. Lesson 16 — new material (Block 4 continues)
