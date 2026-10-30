@@ -1196,3 +1196,133 @@ Key rules landed:
 **Next session queue:**
 1. Warm-up: conjugation gauntlet (watch si + indicative vs cuando + subjunctive)
 2. Lesson 16 — new material (Block 4 continues)
+
+---
+
+## Session Log — Oct 29, 2026
+
+**Warm-Up (new format):**
+
+Gauntlet: 4/5
+- vengan ✅ (ojalá + ellos → present subj — fixed yesterday's vinieran/viniera error)
+- estudias ✅ (si + present indicative — locked)
+- puedan ✅ (cuando + poder → subjunctive — fixed yesterday's hablar/poder confusion)
+- habré aprendido ✅ (para + deadline → futuro compuesto)
+- presentaremos ❌ → presentáramos (past trigger → imperfect subj; wrote future indicative instead)
+
+Ser/Estar drill: 1/3
+- #1 ❌: La conferencia está → es (events use ser — same error as assessment)
+- #2 ❌: El agua está caliente is already correct (temporary temp); Andrew changed to es
+- #3 ✅: está estresado (temporary emotional state)
+
+El hecho de que drill: 1/3 structural
+- #1 ✅ structural (no llamara ✅); surface: molesto→molesta (recurring)
+- #2 ❌: missing "que" after significa + son→sean (no significa QUE SEAN)
+- #3 ❌: estuviera→estés (present situation, not past); tengo feliz→me hace feliz
+
+**LESSON 16: Advanced Connectors & Discourse (aunque)**
+
+Core rule: aunque + indicative = even though (fact); aunque + subjunctive = even if (hypothetical)
+Decision: Has it happened / is it known? → indicative; future/uncertain? → subjunctive
+
+Exercise 1 (aunque): 3/5 structural
+- #1 tenga ✅, #4 sea ✅, #5 form entiendas acceptable (but mislabeled as indicativo)
+- #2 ❌: llegas → llegues (mañana = future → subjunctive)
+- #3 ❌: dolí → dolió (doler = gustar-type, 3rd person: me dolió el pie)
+
+Connector reference:
+- aunque + verb (indicative OR subjunctive)
+- a pesar de + noun/infinitive
+- a pesar de que + subjunctive clause
+- sin embargo / no obstante = however/nevertheless (formal)
+- incluso = even (addition/emphasis)
+
+Exercise 2 (connector fill-in): 4/5
+- #1-4 ✅
+- #5 ❌: aunque las dificultades (aunque needs verb) → A pesar de las dificultades
+
+Exercise 3 (free production): 4/5 structural
+- #1 ✅ sin embargo (surface: lastimas→lesiones, punctuation)
+- #2 ❌: no tenga → no tengo (main clause must be indicative; subjunctive doesn't bleed into main clause)
+- #3 ✅ a pesar de + noun (surface: del tiempo, completaron)
+- #4 ✅ incluso (surface: fría, habitación)
+- #5 ✅ no obstante (surface: tiene not tienen)
+
+KEY RULE: aunque [subj concession], [INDICATIVE main clause] — subjunctive stays in the aunque clause only
+
+**LESSON 16 STATUS: COMPLETE ✅**
+
+**Ongoing flags:**
+- Ser for events (conferencia, reunión, fiesta) — recurring error
+- El hecho de que → always subjunctive (still slipping)
+- me molesta not me molesto (recurring surface)
+- aunque + subj → main clause stays indicative
+
+**Next session queue:**
+1. Warm-up: gauntlet + ser/estar (events) + el hecho de que
+2. Lesson 17 — new material
+
+---
+
+## Session: Oct 30, 2026
+
+**WARM-UP: 8/12 structural**
+
+Gauntlet (3/5):
+- #1 vengan ✅ (ojalá → subj, ellos)
+- #2 ❌ fue → es (ser for events, wrong tense; Andrew reasoning: "location" — needs correction to "events")
+- #3 llamen ✅
+- #4 llueva ✅ (hypothetical → subj)
+- #5 ❌ salemos → salimos (salir: nosotros = salimos, irregular)
+
+Ser/estar (3/4):
+- A es ✅, B está ✅, C está ✅
+- D ❌ eran → son (origin → ser, present tense; reasoning "location" wrong → "origin")
+
+El hecho de que (2/3):
+- #1 ✅ respondieran (imperfect subj for past)
+- #2 ❌ added "no" (flipped meaning), llegaran→llegaras (wrong person), inverted structure
+- #3 ✅ aprobaras — USED SUBJUNCTIVE FOR REAL/POSITIVE FACT — key breakthrough
+
+Recurring: calling ser for events "location rule" — needs to be "events rule"
+
+**LESSON 17: Extended Production (Block 4 capstone)**
+
+Exercise 1 — free paragraph (beach/sidewalk topic): 7 sentences produced
+Structural errors: la calles→las calles, son sucios→están sucias, hubiera existido→hubieran existido, habría estado limpios→habrían estado limpias, hace→hacen, insuficiente→insuficientemente, la olor→el olor, está horible→es horrible, Si viva→Si viviera
+Target structures hit: se pasivo ✅, connectors (aunque/sin embargo) ✅
+Missing: relative clause + subj ❌, nominalization ❌
+
+Exercise 2 — 3 targeted sentences:
+- A: ❌ busco por (no preposition); ❌ missing que. BUT pueda ✅ (subj for hypothetical antecedent)
+- B: ❌ fregen→frieguen (fregar stem-change e→ie); ❌ estén→están (main clause must be indicative); ❌ sucios→sucias
+- C: ❌ lo que structure incomplete (no main predicate)
+Score: 1.5/3. Core concept present in A (pueda) and B (el hecho de que attempted)
+
+Exercise 3 — 4-sentence paragraph (beach topic):
+Target structures:
+- el hecho de que tenga ✅ (subjunctive correct); buena→bueno (gender slip)
+- relative clause + subj ❌ NOT ATTEMPTED (3rd miss this session)
+- lo que quiero es ✅ — cleanest sentence
+- si-clause (free): Si hubiera estado…habría tenido ✅ structure; privado→privada (gender)
+
+Additional errors: me gusta voy→me gusta ir; a playa→a la playa; ahí→hay; está pequeña→es pequeña; se sienta→se siente
+
+Closer — ONE SENTENCE drill:
+"Busco un trabajo que pague mucho dinero." ✅ — clean. Relative clause + subj LANDED.
+
+**LESSON 17 STATUS: COMPLETE ✅**
+
+Flags reinforced this session:
+- Relative clause with subjunctive — avoided repeatedly; finally clicked at end (pague ✅)
+- Ser for events (still using está for characteristics/events)
+- el hecho de que → subjunctive: concept present, verb forms need reinforcement
+- Gender agreement on feminine nouns (calles, playa, olor)
+- salir nosotros = salimos (not salemos)
+- hay vs ahí (there are vs there/over there)
+- me gusta + infinitive (not conjugated verb)
+- lo que needs complete predicate
+
+**Next session queue:**
+1. Warm-up: gauntlet + relative clause drills + hay vs ahí
+2. Lesson 18 — Grammar Review Cycle (Block 5)
