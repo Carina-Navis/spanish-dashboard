@@ -1326,3 +1326,57 @@ Flags reinforced this session:
 **Next session queue:**
 1. Warm-up: gauntlet + relative clause drills + hay vs ahí
 2. Lesson 18 — Grammar Review Cycle (Block 5)
+
+---
+
+## Session: Nov 2, 2026
+
+**WARM-UP: 8/12 structural**
+
+Gauntlet (4/5):
+- #1 ❌ está → es (ser for events — 4th session recurring; reasoning "location" still wrong)
+- #2 llame ✅ (el hecho de que → subj)
+- #3 nos hubiéramos quedado ✅ (si + pluperfect subj → conditional perfect)
+- #4 tenga ✅ (hypothetical antecedent)
+- #5 lleguen ✅ (aunque + future uncertain → subj)
+
+Hay/Ahí/Ser/Estar (3/4):
+- A hay ✅, B ahí ✅, D está ✅
+- C ❌ está → es (event: el concierto)
+
+Reported speech (1/3):
+- #1 ✅ estaba (present → imperfect)
+- #2 ❌ salgan → saldrían; mañana → al día siguiente (future → conditional; time shift)
+- #3 ❌ perdió → había perdido (present perfect → pluperfect)
+
+**LESSON 18: Grammar Review Cycle (Block 5 #2)**
+
+Exercise 1 — Ser/Estar events (8 items): 8/8 ✅ BREAKTHROUGH
+- All 8 events correct after 3+ sessions of errors
+- Car/parents: correctly switched to estar (location of thing, temporary state)
+- Reasoning "time" for #2/#6 → corrected to "event"
+
+Exercise 2 — Reported speech (1.5/4):
+- #1 ❌ necesita → necesitaba (present → imperfect; same rule worked in warm-up, slipped here)
+- #2 ✅ conditional form (llegaríamos acceptable, llegarían more standard)
+- #3 ❌ había → habían (plural); missing "ya"; typo No→Nos
+- #4 ❌ mañana→al día siguiente (time shift); se llamaría→me llamaría (pronoun error)
+
+Time expression shift table drilled: mañana→al día siguiente, hoy→ese día, ayer→el día anterior
+
+Exercise 3 — Subjunctive type selector (3/5):
+- #1 aprendan ✅, #2 pueda ✅, #3 tenga ✅
+- #4 ❌ reciba → recibamos (nosotros person agreement; trigger identification ✅)
+- #5 ❌ haga → hiciera (si + present subj NEVER allowed; si + imperfect subj → conditional)
+
+**LESSON 18 STATUS: COMPLETE ✅**
+
+Flags reinforced this session:
+- SER FOR EVENTS: RESOLVED 8/8 ✅ breakthrough Nov 2
+- Reported speech backshifting: still shaky (future→conditional, time expressions)
+- Si-clause trap: present subj never after si; need imperfect for hypothetical
+- Person agreement in subjunctive (nosotros tracking)
+
+**Next session queue:**
+1. Warm-up: gauntlet + reported speech drill + si-clause type selector
+2. Lesson 19 — Mid-Course Assessment (Block 5 #3)
