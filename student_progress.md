@@ -1380,3 +1380,275 @@ Flags reinforced this session:
 **Next session queue:**
 1. Warm-up: gauntlet + reported speech drill + si-clause type selector
 2. Lesson 19 — Mid-Course Assessment (Block 5 #3)
+
+---
+
+## Session: Nov 3, 2026
+
+**WARM-UP: 4/10**
+
+Part 1 — Gauntlet (2/5):
+- #1 ❌ puedas → pudieras (si-clause trap again: present subj never after si; hypothetical present → imperfect subj)
+- #2 ✅ lleguen (el hecho de que → subj)
+- #3 ❌ tiene hambre → tenía hambre (no backshift; present → imperfect in reported speech)
+- #4 ✅ hable (negated antecedent → subj)
+- #5 ❌ Si → A pesar de ("no haber dormido" is infinitive phrase, not full clause; a pesar de + infinitive)
+
+Part 2 — Reported speech (1/2):
+- A ✅ PERFECT: presentaría + al día siguiente (used reference guide; future→conditional + time shift)
+- B ❌ habíamos → habían (person error: restaurant said THEY had reserved, not we; subject tracking in reported speech)
+
+Part 3 — Connectors (1/3):
+- A ✅ a pesar de (noun phrase follows)
+- B ❌ aunque → sin embargo (independent clauses after semicolon need discourse connector, not subordinating conj)
+- C ❌ sin embargo → aunque (sin embargo can't introduce subordinate clause with verb; aunque + subj = hypothetical)
+
+**LESSON 19: Mid-Course Assessment (Block 5 #3)**
+
+Score: 16/20 (80%)
+
+Section 1 — Ser/Estar (3/4):
+- #1 ✅ es (conferencia = event)
+- #2 ❌ es → está (estar + participio = resulting state, not "permanent trait"; "ser escrito" = passive action, "estar escrito" = state)
+- #3 ✅ estoy (emotion/temporary state)
+- #4 ✅ es (boda = event)
+
+Section 2 — Subjunctive triggers (4/4 ✅):
+- #5 ✅ tenga (hypothetical antecedent)
+- #6 ✅ aprueben [surface: wrote "aproben" — e→ue stem change missed; counted correct]
+- #7 ✅ puedas (emotion trigger)
+- #8 ✅ hable (negated antecedent)
+
+Section 3 — Passive voice (2/2 ✅):
+- #9 ✅ Se construyó este puente en 1890. (se pasivo)
+- #10 ✅ El contrato fue firmado por los empleados ayer. (ser passive, perfect form)
+
+Section 4 — Connectors (2/3):
+- #11 ✅ A pesar de que (acceptable with subjunctive; aunque more natural but correct)
+- #12 ✅ sin embargo (discourse connector between independent clauses)
+- #13 ❌ aunque → a pesar de (bare noun "la lluvia"; aunque needs clause with verb)
+
+Section 5 — Reported speech (3/3 ✅):
+- #14 ✅ llegaría + al día siguiente (future→conditional, time shift)
+- #15 ✅ habían cancelado (present perfect→pluperfect, correct person ellos)
+- #16 ✅ había visto/vio + el día anterior (preterite stays or shifts to pluperfect; su hermano ✅, time shift ✅)
+
+Section 6 — Si-clauses (0/2 ❌ MAJOR GAP):
+- #17 ❌ tendremos → tuviéramos (main clause = haríamos/conditional → si clause needs imperfect subj, never future)
+- #18 ❌ practicarás → practicas (main clause = mejorarás/future → si clause needs present indicative, never future)
+- Pattern: future tense written in si-clause both times — rule not landing at production level
+
+Section 7 — Nominalizations (2/2 ✅):
+- #19 ✅ Lo (lo + adjective)
+- #20 ✅ Lo que (lo que + verb)
+
+**LESSON 19 STATUS: COMPLETE ✅**
+
+Assessment verdict: 80% / B2 solid
+
+Strengths confirmed: subjunctive triggers, passive voice (both types), nominalizations, reported speech (better in full-sentence context than timed drills), ser for events (HELD from Nov 2 breakthrough)
+
+Gaps confirmed:
+- Si-clauses (0/2): PRIORITY GAP — future tense placed in si-clause both times; rule: NEVER future in si-clause; si + indicative present → future; si + imperfect subj → conditional
+- Estar + participio (resulting state): confused with "permanent trait" → ser
+- Aunque vs a pesar de: aunque requires clause/verb, a pesar de takes noun phrase
+
+Skill bar implications (dashboard update Friday Nov 6):
+- Subjunctive: bump to B2+ (~78%)
+- Passive voice: bump to B2 (~72%)
+- Ser/Estar: maintain (~65%) — events solid, resulting state still loose
+- Connectors: maintain B2 68%
+- Si-clauses: flag as B1 gap (~45%)
+- Reported speech: bump to B2 (~65%) based on 3/3 in assessment
+- Nominalizations: B2+ (~75%)
+
+**Next session queue:**
+1. Warm-up: gauntlet + si-clause type identification + estar-for-resulting-state mini-drill
+2. Lesson 20 — Si-clauses (dedicated: real conditional, hypothetical present, counterfactual past, mixed)
+
+---
+
+## Session: Nov 4, 2026
+
+**WARM-UP: 8/11**
+
+Part 1 — Gauntlet (4/5):
+- #1 ✅ sepas (el hecho de que → subj)
+- #2 ❌ llamaba hoy → iba a llamarme esa noche (time shift: esta noche→esa noche missed; pronoun: llamarme not llamaba; voy a + inf → iba a + inf in reported speech)
+- #3 ✅ sierva [surface: sirva — servir is e→i not e→ie; counted correct]
+- #4 ✅ A pesar de (+ infinitive)
+- #5 ✅ es (entrega de premios = event; held from Nov 2 breakthrough)
+
+Part 2 — Estar for resulting state (3/3 ✅):
+- A está ✅, B están ✅, C está ✅
+- Good meta-observation from Andrew: participio after estar is a tell; also flagged that labeling the section made all answers obvious. Next time: mix estar + ser passive to remove the tell.
+- Terminology correction noted: escrita/cerradas/resuelto = participios pasados (past participles), NOT "presente continuo" (which = estar + gerundio -ando/-iendo)
+
+Part 3 — Si-clauses (1/3):
+- A ✅ Si hubieras estudiado (pluperfect subj — counterfactual past)
+- B ❌ tengo → tuviera (wrote present indicative for conditional main clause; should be imperfect subj)
+- C ❌ hiciera → hacemos (wrote imperfect subj for future main clause; should be present indicative — B and C swapped)
+
+**LESSON 20: Si-clauses — Dedicated (Block 5 #4)**
+
+Exercise 1 — Type identification, complete si-clause (8 items): 7/8
+- #1 ❌ llueva → llueve: wrote PRESENT SUBJUNCTIVE despite correctly identifying "present" type. Real/possible si-clause = INDICATIVE only. Si is NOT a subjunctive trigger for real conditions.
+- #2-8 ✅ all correct (tuviera, hubieras venido, pudiéramos, trabajo, hubieras dicho, hace, supiera)
+- Irregular forms correct: dicho ✅, supiera ✅
+
+Exercise 2 — Complete main clause from si-clause (5 items): 5/5 ✅
+- All types correct. Terminology note: main clause of counterfactual = condicional perfecto (not "pluperfect conditional")
+
+Exercise 3 — Full production, both clauses (4 items): 4/4 ✅
+- #1 Si llegas tarde, te avisaré ✅ (real/possible)
+- #2 Si fuera más organizado, no perdería [surface: "menos" → "tanto"; double negative created; form correct] ✅
+- #3 Si hubiéramos estudiado juntos, nos habríamos preparado mejor ✅ (perfect — nosotros reflexive handled)
+- #4 Si vivieras cerca de la playa, podrías ✅
+
+**LESSON 20 STATUS: COMPLETE ✅**
+
+Session total: 16/17
+
+Key flags:
+- Si + real/possible = present INDICATIVE (never subjunctive) — subjunctive reflex still fires here; keep in warm-up rotation
+- Reported speech: "voy a + inf" → "iba a + inf" (ir a construction preserved); time expressions still slipping
+- Double negative watch: "no + menos" = illogical; use "no + tanto" or drop the negative
+
+**Next session queue:**
+1. Warm-up: gauntlet + si-clause type selector (keep in rotation) + estar participio vs ser passive discrimination
+2. Lesson 21 — [check roadmap: Block 5 #5 or new topic]
+3. Friday Nov 6: dashboard skill bar update (si-clauses now B2, bump subjunctive + passive)
+
+---
+
+## Session: Nov 5, 2026
+
+**WARM-UP: 6/11**
+
+Part 1 — Gauntlet (4/5):
+- #1 ✅ llueve — FIXED (llueva error from Nov 4 corrected; real/possible si-clause = indicative)
+- #2 ✅ no recibamos (el hecho de que → subj; nosotros form correct)
+- #3 ❌ terminaba → había terminado (present perfect → pluperfect in reported speech; not imperfect)
+- #4 ✅ pueda (hypothetical antecedent → subj)
+- #5 ✅ A pesar de (+ noun phrase)
+
+Part 2 — Si-clauses (2/3):
+- A ❌ estudies, serás → hubieras estudiado, serías (si + present subj NEVER; "ahora" = current counterfactual → mixed conditional: pluscuamperfecto subj + condicional)
+- B ✅ tuviéramos, podríamos (hypothetical present)
+- C ✅ hubiera salido, habría llegado [terminology: condicional perfecto not "futuro compuesto"]
+
+Part 3 — Ser passive vs. Estar + participio (0/3 ALL REVERSED):
+- A ❌ están → fueron (por el director = agent → ser passive for action)
+- B ❌ son → están (no agent, current state → estar + participio)
+- C ❌ está → fue (por García Márquez = agent → ser passive)
+- Pattern: ser/estar for action vs. state fully reversed — needs repeated drilling
+
+**LESSON 21: Academic & Formal Register (Block 6 #1)**
+
+Exercise 1 — Fill in academic expression (3/6):
+- #1 ❌ Se considera → En lo que respecta a (noun phrase follows, not que+clause)
+- #2 ✅ Si bien es cierto
+- #3 ✅ Se observa
+- #4 ❌ En lo que respecta a → Cabe señalar (que+clause follows)
+- #5 ❌ Cabe señalar → En lo que respecta a (noun phrase follows)
+- #6 ✅ En consecuencia
+- Core confusion: which expressions take noun phrases vs. que+clause (see rule table)
+
+Exercise 2 — Transform to formal register (4/5, used notes):
+- #1 ✅ Cabe de señalar [surface: "cabe señalar" no "de"]
+- #2 ✅ Se analizaron — perfect se pasivo
+- #3 ✅ Se observa que
+- #4 ✅ En definitiva [bonus note: "como esperábamos" → "según lo previsto" more formal]
+- #5 ✅ Cabe destacar que
+
+Exercise 3 — Free production with expression (0/4):
+- All 4 expressions used in correct position ✅ (concept working)
+- Structural errors: missing "que" after cabe señalar (#1), missing "a" in en lo que respecta a (#2), subject-verb agreement utiliza→utilizan (#3), missing subject + inverted logic (#4)
+- English mixing: "carbon dioxide" → "dióxido de carbono / emisiones"
+
+**LESSON 21 STATUS: COMPLETE ✅**
+
+Key flags for warm-up rotation:
+- cabe señalar **que** (always needs que)
+- en lo que respecta **a** (always needs a)
+- Ser passive vs. estar + participio — still reversing (action=ser, state=estar)
+- Si + present subjunctive NEVER (llueva trap still possible)
+- Mixed conditional with "ahora": pluscuamperfecto subj + condicional
+
+**Next session queue:**
+1. Warm-up: gauntlet + ser passive vs. estar + participio (targeted) + si-clause type
+2. Lesson 22 — [check roadmap]
+3. Friday Nov 6: dashboard skill bar update
+
+---
+
+## Session: Nov 6, 2026 (Friday)
+
+**WARM-UP: 7/11**
+
+Part 1 — Gauntlet (4/4):
+- #1 ✅ Se hubiera aprobado → se habría implementado (counterfactual si + pluperfect subj + condicional perfecto)
+- #2 ✅ llueve (real/possible = indicative; llueva trap AVOIDED ✓)
+- #3 ✅ estuviera (aunque + uncertain future = subjunctive)
+- #4 ✅ Es/Será (ser for events = now fully automatic)
+
+Part 2 — Ser passive vs. Estar + participio (2/3, improved from 0/3):
+- A ✅ Está cerrado (no agent → resulting state)
+- B ❌ están resueltos → fueron resueltos (por nuestro equipo = agent → ser passive for action; "por + agent" always signals ser)
+- C ✅ fue diseñado (por arquitectos = agent → ser passive)
+- Improvement: 2/3 (up from 0/3 Nov 5); rule anchor = "por + agent" always → ser
+
+Part 3 — Idiomatic fill-in (1/4):
+- #1 ✅ hay que invertir (hay que + inf)
+- #2 ❌ lleva a cabo → conlleva (conllevar = to entail/involve; confusable with llevar a cabo)
+- #3 ❌ Pone de manifiesto → Da lugar a (da lugar a = leads to / gives rise to; poner de manifiesto = makes clear/highlights)
+- #4 ❌ hace frente a → pone en entredicho (pone en entredicho = calls into question; hacer frente a = to face/tackle)
+- Note: Pre-exposure; semantic discrimination between idioms is the challenge
+
+**LESSON 22: Idiomatic Precision (Block 6 #2)**
+
+Exercise 1 — Translation fill-in (1/6):
+- #1 ❌ lleva a cabo → da lugar a (da lugar a = gives rise to, NOT implements)
+- #2 ✅ pone de manifiesto
+- #3 ❌ puede resultar → conlleva (conlleva = entails/involves; "puede resultar" is circumlocution)
+- #4 ❌ hace frente a → pone en entredicho (semantic confusion same as warm-up)
+- #5 ❌ da lugar a → lleva a cabo (reversal from #1)
+- #6 ❌ conllevar → hacer frente a (reversal)
+- Pattern: semantic discrimination between 6 idioms is the core challenge; individual idioms understood, switching between them causes interference
+- Note: Pre-exposure exercise; B1-level result expected for new idioms
+
+Exercise 2 — Sentence rewrite with target idiom (5/5):
+- #1 ✅ Esto ha dado lugar a... (da lugar a = gives rise to, applied correctly)
+- #2 ✅ Los datos ponen de manifiesto... (correctly used)
+- #3 ✅ El gobierno llevó a cabo... (carried out)
+- #4 ✅ Esta empresa ha hecho frente a... (faced/tackled)
+- #5 ✅ Esto conlleva riesgos significativos (entails, applied correctly)
+- All 5 correct when idiom is specified
+
+Exercise 3 — Free choice with register context (4/4):
+- #1 ✅ ponen de manifiesto (makes clear → correct register)
+- #2 ✅ ha llevado a cabo (implemented → correct)
+- #3 ✅ hacen frente a (face/tackle → correct)
+- #4 ✅ pone en entredicho (calls into question → correct + correct hay que + infinitive noted)
+
+**LESSON 22 STATUS: COMPLETE ✅**
+
+**Dashboard update (Friday Nov 6):**
+- Week of Nov 2: 5/5 🏆 Perfect week (Mon-Fri all done)
+- Skill bars updated: Passive 72%, Si-clauses 72%, Register 62%, Free Production 68%
+- Added: Academic Register 55%, Idiomatic Expressions 48%
+- Block 5: 3/3 ✓; Block 6: 2/4
+- Lessons complete: 22 / 28
+- Projected roadmap shifted ~3 weeks earlier (actual pace ~1 lesson/day)
+
+Key flags for warm-up rotation:
+- Ser passive vs. estar state: "por + agent" = ser passive; no agent = estar state
+- Semantic discrimination: dar lugar a (causes/gives rise to) vs. poner de manifiesto (makes clear/highlights)
+- hay que + INFINITIVO (not conjugated — this is now solid)
+- cabe señalar QUE / en lo que respecta A (connectors from L21)
+- si + real/possible = indicativo (llueva trap)
+- ir a + inf → iba a + inf in reported speech
+
+**Next session queue:**
+1. Warm-up: gauntlet + ser passive/estar state + idiomatic discrimination (dar lugar a vs. poner de manifiesto vs. llevar a cabo)
+2. Lesson 23 — Essay Structure & Argumentation (Block 7)
