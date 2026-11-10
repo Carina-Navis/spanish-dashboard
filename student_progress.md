@@ -1652,3 +1652,155 @@ Key flags for warm-up rotation:
 **Next session queue:**
 1. Warm-up: gauntlet + ser passive/estar state + idiomatic discrimination (dar lugar a vs. poner de manifiesto vs. llevar a cabo)
 2. Lesson 23 — Essay Structure & Argumentation (Block 7)
+
+---
+
+## Session: Nov 7, 2026 (Saturday)
+
+**WARM-UP: 6/10**
+
+Part 1 — Gauntlet (3/4):
+- #1 ❌ fue → iban a llamarme (ir a + inf in reported speech → iba a; "fue" = unrelated; confused ir with ser)
+- #2 ✅ apruebe [note: past main verb sorprendió → imperfect subj "aprobara" more precise — concordancia de tiempos]
+- #3 ✅ hubiéramos tenido (pluperfect subj; condicional perfecto in main clause correctly identified)
+- #4 ✅ llueva (future uncertainty + mañana → subj; aunque trap avoided)
+
+Part 2 — Ser passive vs. estar (1/3):
+- A ❌ es inauguro → fue inaugurado (rule correct — por alcalde → ser; but form wrong: "es" not "fue"; "inauguro" ≠ past participle → "inaugurado")
+- B ✅ está roto [surface: roto → rota, feminine agreement]
+- C ❌ están trasladado → fueron trasladados (missed "por orden judicial" as agent trigger; also agreement error trasladado→trasladados)
+
+Part 3 — Argumentative move selection (3/3 ✅):
+- A ✅ No se puede negar que [CONCESIÓN]
+- B ✅ Con todo [REFUTACIÓN]
+- C ✅ De lo anterior se desprende que [CONCLUSIÓN]
+
+**LESSON 23: Essay Structure & Argumentation (Block 7)**
+
+Exercise 1 — Identify argumentative move (6/6 ✅):
+All 6 correctly labeled: Tesis, Conclusión, Tesis, Contraargumento, Refutación, Concesión
+
+Exercise 2 — Fill in the argumentative phrase (5/5 ✅):
+- #1 se argumenta que; #2 Si bien es cierto que; #3 No se puede negar que; #4 No obstante; #5 De lo anterior se desprende que
+
+Exercise 3 — Produce one sentence per move (4/4 architecture ✅):
+- Concesión ✅ correct phrase; typos: emdicina/ethicos
+- Refutación ✅ sin embargo used; structural: "tiene negativos" → conlleva consecuencias negativas; "laborales" → trabajadores
+- Contraargumento ✅ existe la opinión de que; surface: son producido→producidas, materials→materiales, de ambiente→para el medioambiente
+- Conclusión ✅ en definitiva; structural: "por hay más" → broken syntax; vocabulary: aventajas→ventajas, disaventajas→desventajas
+
+**LESSON 23 STATUS: COMPLETE ✅**
+
+Key flags for warm-up rotation:
+- ventajas / desventajas (NOT aventajas/disaventajas)
+- Conclusion syntax: En definitiva + synthesize (not + new reasons)
+- Concesión→Refutación always come as a pair
+- ir a + inf → iba a in reported speech (recurring gap)
+
+---
+
+## Session: Nov 9, 2026 (Monday)
+
+**WARM-UP: 7/10**
+
+Part 1 — Gauntlet (3/4):
+- #1 ❌ fue → iban a llamarme (ir a + inf reported speech recurring gap — same error as Nov 7)
+- #2 ✅ apruebe [note: aprobara more precise with past main sorprendió — concordancia de tiempos]
+- #3 ✅ hubiéramos tenido
+- #4 ✅ llueva
+
+Part 2 — Ser passive vs. estar (1/3):
+- A ❌ es inauguro → fue inaugurado (identified ser correctly but form wrong again)
+- B ✅ está rota (corrected gender agreement this time ✓)
+- C ❌ están trasladado → fueron trasladados (missed "por orden judicial"; agreement error)
+
+Part 3 — Argumentative phrase choice (3/3 ✅)
+
+**LESSON 24: Reading → Production (Block 7)**
+
+Text: "La inteligencia artificial y el futuro del empleo" (~180 words, C1 formal editorial)
+
+Exercise 1 — Comprehension questions (4/4 content ✅):
+- #1 ✅ content right; grammar: missing personal "a" before trabajadores, subject issues
+- #2 ✅ content right; structural: fragment not sentence; "a largo plazos" → "a largo plazo"
+- #3 ✅ partially (captured speed; imprecise on subject — AI's speed, not workers')
+- #4 ✅ content right; surface: "a decidida" → "decidida" (personal 'a' applied to abstract noun)
+
+Exercise 2 — Identify argumentative move in text (4/4 ✅):
+Tesis / Concesión / Refutación / Conclusión all correct
+
+Exercise 3 — Repurpose vocabulary in new sentences (4/4 vocabulary deployment ✅):
+- irrupción ✅ (structural: cambia→cambió; surface: de iphone→del iPhone)
+- poner en entredicho ✅ (structural: missing subject; "los economias"→las economías; "Americana Latina"→América Latina)
+- a largo plazo / a corto plazo ✅ (bonus: used "si bien es cierto que" unprompted; structural: missing subject, "buena"→"bueno"; "Si bien es cierto"→"...que")
+- De lo anterior se desprende que ✅ (structural: "coma"→comer/indicative; "está mejor"→es mejor; "por"→"para")
+
+**LESSON 24 STATUS: COMPLETE ✅**
+
+Key patterns from L24:
+- Personal 'a': required before persons as direct object; NEVER before abstract nouns
+- Concordancia de tiempos: past main → imperfect subjunctive (not present subj)
+- por vs. para: benefit/purpose = para; cause/agent/exchange = por
+- Subject completeness: every sentence needs an explicit subject
+- ir a + inf → iba a + inf in reported speech (third session with this error)
+
+**Next session queue:**
+1. Warm-up: gauntlet + ser passive/estar state + por vs. para
+2. Lesson 25 — Oral Fluency & Repair (Block 7)
+
+---
+
+## Session: Nov 10, 2026 (Tuesday)
+
+**WARM-UP: 7/10**
+
+Part 1 — Gauntlet (3/4):
+- #1 ✅ iban a enviarles — BREAKTHROUGH: ir a + inf → iba a in reported speech (3 sessions of error; finally correct)
+- #2 ✅ hable (aunque + uncertainty → subjunctive)
+- #3 ❌ lluegemos → lleguemos (spelling; correct mood chosen)
+- #4 ❌ es completado → fue completado (ser passive with past time marker → preterite, not present)
+
+Part 2 — Ser passive vs. estar (3/3 ✅ — first clean sweep):
+- A ✅ son publicadas (por + agent → ser; agreement correct)
+- B ✅ estaba firmado (no agent → estar; past tense correct)
+- C ✅ son asignados [note: past time marker "la semana pasada" → fueron asignados more precise; tense still defaulting to present]
+
+Part 3 — Por vs. Para (4/4 ✅):
+- por/para/por/por — all correct
+
+**LESSON 25: Oral Fluency & Repair (Block 7)**
+
+Exercise 1 — Classify spoken utterances (5/6):
+- #1 ~ sparingly → ✗ avoid (pues + o sea combined = low register; instinct right, answer too lenient)
+- #2 ✅ C1 (mejor dicho — precision repair)
+- #3 ✅ avoid (este... filler + es que = B1 pattern)
+- #4 ✅ C1 (eso sí — caveat marker)
+- #5 ✅ avoid (ya ya + es que + ¿no? = three low-register patterns)
+- #6 ✅ C1 (en cualquier caso)
+
+Exercise 2 — Repair phrase placement (2/5):
+- #1 ✅ mejor dicho (mid-stream self-correction)
+- #2 ❌ lo que quiero decir es que → permíteme reformular (walking back overstated claim; not a reboot of unclear meaning)
+- #3 ✅ es decir (paraphrase/elaboration)
+- #4 ❌ dicho esto → lo que quiero decir es que (speaker abandoned broken sentence; dicho esto needs completed prior statement)
+- #5 ❌ permíteme reformular → dicho esto (speaker completed point and pivots; nothing to rephrase)
+Key confusion: #4 and #5 swapped. Dicho esto = after completed point; lo que quiero decir es que = rescues abandoned sentence.
+
+Exercise 3 — Register shift: spoken → written (0/4):
+- #1 ❌ "Lo que quiero decir es que" = spoken repair phrase in written text; "en consecuencia" = wrong logic (contrast, not consequence)
+- #2 ❌ "En cualquier caso" mid-air without prior context; structure broken with si-clause + por consiguiente
+- #3 ❌ "Es obvio que" = informal opener; "dicho esto" = spoken marker; "un problem" = spelling (problema); "desde hace mucho tiempo" = informal
+- #4 ❌ "si no me equivoco" = oral hedging; "cuesta dinero"/"vale la pena" = informal register retained; no capitalization
+Core pattern: spoken discourse markers (lo que quiero decir es que, dicho esto, si no me equivoco, en cualquier caso) bleeding into written formal register. Written text has no repair phrases — restructure instead.
+
+**LESSON 25 STATUS: COMPLETE ✅**
+
+Key flags for warm-up rotation:
+- Ser passive tense: past time marker → preterite (fue/fueron), not present (es/son)
+- Register separation: spoken markers (mejor dicho, dicho esto) NEVER in formal writing
+- Written register: replace repair structures with subordinate clauses and formal connectors
+- ir a + inf → iba a: now solid — reinforce with 1 item/session for consolidation
+
+**Next session queue:**
+1. Warm-up: gauntlet + ser passive tense selection + register discrimination (spoken vs. written marker)
+2. Lesson 26 — Register shift drills: spoken → written production (Block 7 continuation)
