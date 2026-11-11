@@ -1804,3 +1804,61 @@ Key flags for warm-up rotation:
 **Next session queue:**
 1. Warm-up: gauntlet + ser passive tense selection + register discrimination (spoken vs. written marker)
 2. Lesson 26 — Register shift drills: spoken → written production (Block 7 continuation)
+
+---
+
+## Session: Nov 11, 2026 (Wednesday)
+
+**WARM-UP: 9/12**
+
+Part 1 — Gauntlet (2/4):
+- #1 ❌ volvieran → iba a volver (confirmó que = verb of reporting → indicative, not subjunctive; designed as ir a reinforcement rep)
+- #2 ✅ hubiera tenido (counterfactual pluperfect subj; clean)
+- #3 ✅ presentaran (era imprescindible que + past → imperfect subj)
+- #4 ❌ "todos" → personal 'a' (missed what blank was testing: liberar **a** los detenidos)
+
+Part 2 — Ser passive tense (2/3):
+- #1 ✅ fueron aprobadas (el año pasado → preterite; agreement f.pl. correct)
+- #2 ✅ son publicados (cada trimestre → habitual → present; agreement m.pl. correct)
+- #3 ❌ eran firmado → fue firmado (hace dos semanas → preterite not imperfect; "eran" plural error)
+
+Part 3 — Register classification (5/5):
+- mejor dicho: SPOKEN (✅; more precisely BOTH but pedagogically correct)
+- no obstante: WRITTEN ✅
+- eso sí: SPOKEN ✅
+- en consecuencia: WRITTEN ✅
+- dicho esto: BOTH ✅
+
+**LESSON 26: Register Shift Drills (Block 7 continuation)**
+
+Exercise 1 — Identify register intruder + rewrite (2.5/4):
+- #1 ✅ spotted mejor dicho; ❌ replaced with no obstante (false contrast — no prior contrast exists); should drop or use más concretamente
+- #2 ✅ dropped eso sí cleanly; kept cabe señalar que; perfect
+- #3 ✅ removed lo que quiero decir es que; en definitiva adds slight tone shift but acceptable
+- #4 trick item: dicho esto is valid in formal writing (established Part 3); Andrew replaced with en suma — also good; no penalty
+
+Exercise 2 — Spoken → written full rewrites (0/5 initial + scaffolding intervention):
+Core pattern identified: swapping spoken openers for other spoken openers; main clause vocabulary unchanged; spoken markers (lo que quiero decir es que, dicho esto, si no me equivoco) bleeding into written production.
+Pedagogical recalibration: jumped to Step 4 (full production) before Steps 2-3 internalized. 
+Reference card reorganized and provided (7 sections).
+Key fix: spoken C1 phrases were miscategorized as "Formal/Academic" in existing notes — corrected to "Spoken C1" column.
+Added: Vocabulary Swaps section (new content, not previously in notes).
+
+Exercise 3 — Scaffolded substitution, card open (2.5/5):
+- #1 ✅ nadie hace nada → no se han adoptado medidas efectivas; note: dropped pero (connector needed)
+- #2 ❌ creo que → es decir (es decir = paraphrase connector, not opener); correct: cabe señalar que / cabría argumentar que
+- #3 ❌ hay que → es necesario que evaluar (grammar error: es necesario que + subj; without que → infinitive: es necesario evaluar)
+- #4 ✅ las cosas van a ir peor → la situación se deteriorará; minor: "se deteriorará para la economía" → "la situación económica se deteriorará"
+- #5 ❌ → pero not found in card; correct: Section 2 Contrast row → no obstante / sin embargo; gap in reference card: needs "Replaces" column
+
+**LESSON 26 STATUS: COMPLETE ✅**
+
+Key flags for warm-up rotation:
+- confirmó que / afirmó que + indicative (NOT subjunctive)
+- es necesario + infinitive (NO que before inf); es necesario que + subjunctive
+- pero → no obstante/sin embargo in formal writing
+- Register card gap: Section 2 needs "Replaces (informal)" column added
+
+**Next session queue:**
+1. Warm-up: gauntlet + ser passive tense + one register swap (single substitution, card open)
+2. Lesson 27 — Scaffolded register drills (Step 2-3: single substitutions building to two per sentence)
