@@ -1862,3 +1862,61 @@ Key flags for warm-up rotation:
 **Next session queue:**
 1. Warm-up: gauntlet + ser passive tense + one register swap (single substitution, card open)
 2. Lesson 27 — Scaffolded register drills (Step 2-3: single substitutions building to two per sentence)
+
+---
+
+## Session: Nov 12, 2026 (Thursday)
+
+**WARM-UP: 5.5/8**
+
+Part 1 — Gauntlet (2/4):
+- #1 ✅ iba (ir a + inf → iba; note: full phrase = iba a presentar)
+- #2 ❌ implementara → implementaría (confirmó que = verb of reporting → indicative not subjunctive; 3rd appearance of this error)
+- #3 ❌ habrías → habríamos evitado (person agreement: si hubiéramos = nosotros → main clause = habríamos)
+- #4 ✅ a (personal 'a' before person as direct object)
+
+Part 2 — Ser passive tense (2/3):
+- #1 ❌ agreement: fueron presentado → fueron presentadas (las conclusiones = f.pl.)
+- #2 ❌ agreement: son renovado → son renovados (los acuerdos = m.pl.)
+- #3 ✅ fue aprobado (hace dos semanas → preterite; m.sg. agreement correct)
+Recurring pattern: participio agreement with subject gender/number consistently missed.
+
+Part 3 — Single register swap (✅): así que → en consecuencia, (with comma); correct.
+
+**LESSON 27: Scaffolded Register Drills (Step 2-3, card open)**
+
+Exercise 1 — Two swaps per sentence (5/8):
+- #1 ✅✅ se observa que / la situación se deteriorará
+- #2 ✅✅ en definitiva / es necesario + inf (BREAKTHROUGH: first correct use of es necesario + infinitive without que)
+- #3 ✅✅ se considera que / por consiguiente (structural note: por consiguiente needs clause boundary)
+- #4 ✅❌ quizás correct; "no siempre son fiables" not on card and not informal — exercise design error; "investigar la credibilidad" invented incorrectly
+
+Exercise 2 — Two swaps per sentence (7/8):
+- #1 ✅✅ se observa que / la situación se deteriorará (clean)
+- #2 ✅✅ en definitiva / es necesario reconocer (es necesario + inf correct again)
+- #3 ✅✅ se considera que / por consiguiente (swaps correct; structural note)
+- #4 ✅❌ quizás correct; second element not on card (legitimate flag)
+
+Exercise 3 — Three swaps per sentence (9/9 concepts ✅):
+- #1 ✅✅✅ cabe señalar que / un amplio sector de la población / no obstante — surface: "señelar"→señalar; spelling
+- #2 ✅✅✅ de lo anterior se desprende que / es necesario / este problema persiste desde hace años — structural note: comma after que incorrect
+- #3 ✅✅✅ se observa que / reviste considerable gravedad / un amplio sector de la población — surface: "la"→las consecuencias; "reviste"→revisten (plural agreement)
+
+**LESSON 27 STATUS: COMPLETE ✅**
+
+Key progress:
+- 9/9 conceptual register swaps correct with card open (up from 0/5 two days ago)
+- es necesario + infinitive (no que) now clicking — correct twice
+- Remaining gaps: confirmó que → indicative (3rd miss), participio gender/number agreement, spelling (señelar/señalar)
+
+Key flags for warm-up rotation:
+- confirmó/afirmó/declaró + que → indicative (never subjunctive)
+- Passive participio must agree with subject: gender AND number
+- cabe señalar (no "de"), es necesario + inf (no "que")
+- Person agreement in counterfactuals: nosotros → habríamos
+
+**Tomorrow (Friday): Dashboard update + L28**
+Next session queue:
+1. Warm-up: gauntlet + passive agreement + register swap (card open)
+2. L28 — Register drills Step 3-4: mixed (some swaps marked, some unmarked)
+3. Dashboard update (weekly Friday update)
